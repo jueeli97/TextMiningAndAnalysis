@@ -1,0 +1,1409 @@
+The United States vs. the iPhone
+
+
+0:01
+from The New York Times I'm Sabrina
+0:04
+tavernes and this is the
+0:06
+[Music]
+0:11
+daily last week the justice department
+0:14
+took aim at Apple it was the latest and
+0:17
+most Sweeping in a series of
+0:18
+antimonopoly cases against the Titans of
+0:21
+Silicon Valley today my colleague David
+0:25
+McCabe on the United States versus the
+0:29
+iPhone
+0:34
+it's Tuesday March
+0:37
+[Music]
+0:45
+26th so David there was big news last
+0:47
+week out of Washington and that was that
+0:50
+the US government filed suit against
+0:52
+apple and this is just one in a series
+0:56
+of cases that the government is making
+0:58
+against big Tech you know the last time
+1:00
+you and I talked of course Google was
+1:02
+the one that was going on trial so tell
+1:05
+me about this case against
+1:08
+Apple so for five years the federal
+1:10
+government through the Department of
+1:12
+Justice and the Federal Trade Commission
+1:14
+has been pursuing these investigations
+1:16
+and ultimately bringing lawsuits into
+1:17
+whether the biggest tech companies have
+1:19
+broken antitrust laws and these are laws
+1:21
+that are designed to stop companies from
+1:23
+throwing their power around and they
+1:25
+have brought a Spate of these lawsuits
+1:27
+they sued Google for abusing Monopoly in
+1:30
+online search and advertising technology
+1:32
+they've sued meta which owned Facebook
+1:34
+for allegedly stamping out n competition
+1:36
+when it bought Instagram and WhatsApp
+1:39
+and the government sued Amazon for
+1:41
+allegedly squeezing the third party
+1:42
+Merchants that use its site and while
+1:46
+the individual allegations in each one
+1:47
+of these lawsuits varies the basic
+1:51
+argument is this that these companies
+1:53
+have IL legally maintained monopolies or
+1:56
+otherwise subverted competition that
+1:58
+it's been bad for the economy it's
+2:00
+reduced choices for consumers it's
+2:01
+limited Innovation and it's led to
+2:03
+higher prices and last week the justice
+2:05
+department filed one of these lawsuits
+2:07
+against apple and this lawsuit is in
+2:10
+some ways the most sweeping we have seen
+2:11
+yet it targets what is one of the most
+2:14
+valuable companies on the planet apple
+2:16
+is worth trillions of dollars and it
+2:19
+takes aim at the heart of Apple's
+2:21
+business a product that is recognizable
+2:23
+to billions of consumers around the
+2:25
+world and has changed daily life as we
+2:28
+know it and that's the iPhone
+2:30
+so David the last time we talked you
+2:33
+taught me that simply being a monopoly
+2:36
+in and of itself is not illegal right
+2:38
+like if lots of people like a company's
+2:40
+product and it ends up as a monopoly
+2:42
+because of that that's okay but if the
+2:44
+company uses its power of bigness to
+2:47
+keep competitors out that's when a
+2:50
+company kind of crosses into the illegal
+2:53
+territory so what are we seeing the
+2:55
+government argue here that's right if a
+2:57
+monopoly is maintained through
+2:58
+exclusionary or predat means that's when
+3:01
+a company starts to violate the law and
+3:04
+that's exactly what the government is
+3:05
+arguing Apple has done here and
+3:06
+particularly the theme that they've hit
+3:08
+on again and again is exclusion that
+3:11
+Apple excluded other companies from
+3:14
+offering products that compete with its
+3:16
+own services or excluded other phones or
+3:19
+devices from interacting with the iPhone
+3:21
+in a way that was really good for
+3:23
+consumers and that those things were
+3:24
+designed to make a consumer more reliant
+3:26
+on the iPhone and make it harder for
+3:28
+them to switch away from the iPhone and
+3:31
+that all of these things built what the
+3:33
+justice department is calling a moat
+3:35
+around the iPhone a moat like a moat
+3:38
+around a castle precisely yeah filled
+3:41
+with alligators drawbridge the whole
+3:43
+deal okay so give me a better sense of
+3:46
+this metaphor so think of Apple as a
+3:49
+medieval Lord of some kind
+3:53
+okay Apple's got its castle in the
+3:55
+castle is the Crown Jewel the iPhone and
+3:59
+also all the people use the iPhone right
+4:01
+because that's the heart of Apple's
+4:02
+business all the people using the iPhone
+4:04
+using the services Apple sells you right
+4:06
+through the
+4:08
+iPhone and around the castle is this
+4:10
+deep moat with the alligators the
+4:12
+drawbridge is pulled
+4:14
+up and the moat makes it hard to get out
+4:18
+of the castle it also makes it hard for
+4:20
+competitors to get in and get at those
+4:24
+users got it okay so that metaphor is
+4:27
+clear so what exactly does a do jail
+4:31
+ledge so the first thing the government
+4:33
+argues Apple does to build this mode is
+4:36
+it simply doesn't allow other companies
+4:38
+to offer apps on the iPhone that might
+4:41
+diminish the value of the phone to
+4:44
+users and there are a number of examples
+4:46
+in the lawsuit about this but the first
+4:49
+one that really matters is digital
+4:51
+wallet so it has become increasingly
+4:53
+common for consumers to pay for
+4:54
+something like let's say you go to a
+4:55
+coffee shop uh to pay by tapping their
+4:58
+phone against a little payment terminal
+5:00
+right rather than taking their credit
+5:01
+card out on the iPhone only apple is
+5:05
+allowed to provide a digital wallet like
+5:07
+that it's called the Apple wallet and
+5:09
+the Department of Justice is saying that
+5:11
+they don't allow other companies to
+5:13
+offer that kind of service because it
+5:15
+might reduce Apple's hold on iPhone
+5:17
+users and make it less costly for those
+5:20
+users to switch to a different phone and
+5:22
+take their digital wallet with them so
+5:23
+that's one example and by less costly
+5:26
+you mean it would be easier to switch
+5:28
+out of an iPhone exactly another way the
+5:31
+government says Apple built its mode is
+5:33
+by not allowing users to download game
+5:36
+streaming apps okay what's a game
+5:39
+streaming app a game streaming app lets
+5:40
+you play a video game like you're
+5:42
+watching a show on Netflix instead of
+5:44
+downloading the game directly to your
+5:46
+phone you play it on a remote computer
+5:49
+far away from you so streaming video
+5:51
+games basically exactly streaming video
+5:53
+games and the government says that if
+5:55
+iPhone users were allowed to stream
+5:57
+video games that it would make the phone
+5:59
+less valuable to them because the iPhone
+6:00
+has a really powerful computer chip it
+6:02
+can play games directly on the phone but
+6:05
+if game streaming makes that unnecessary
+6:08
+the government says why would they need
+6:10
+the expensive powerful iPhone in the
+6:12
+first place got it so basically kind of
+6:15
+trapping them in this kind of more
+6:17
+expensive environment than is needed for
+6:20
+this kind of gaming thing exactly so
+6:23
+what else is the government alleging
+6:24
+here the government says that Apple has
+6:27
+also built its mode by making sure that
+6:29
+the iPhone doesn't work very well with
+6:32
+other types of devices that aren't made
+6:36
+by Apple and there's two examples of
+6:40
+this one is the Smartwatch so Apple
+6:43
+makes a device called the Apple watch
+6:45
+it's very popular it tracks people's
+6:47
+Fitness it lets them respond to
+6:49
+notifications and send text messages
+6:51
+directly from their risk people's wrists
+6:53
+are beeping all the time now exactly but
+6:55
+other companies make smart watches too
+6:58
+and the government says that the phone
+6:59
+works less well with those other devices
+7:02
+not made by Apple than it does with the
+7:04
+Apple watch a prime example of this is
+7:07
+that users can respond to Notifications
+7:10
+directly on their Apple watch if they're
+7:13
+using a non-apple smartwatch they can't
+7:15
+do that in the same way and the
+7:18
+government says that that's all an
+7:20
+attempt to make it harder for people to
+7:22
+leave the iPhone because once they own
+7:24
+the expensive Apple watch they're not
+7:26
+going to want to switch phones and the
+7:28
+watch right that would be much more
+7:30
+costly hundreds of dollars more
+7:35
+costly the next example is messaging
+7:39
+right the green and the blue like
+7:41
+someone doesn't have an iPhone basically
+7:43
+exactly so I have an iPhone and if I'm
+7:45
+talking to someone who also has an
+7:47
+iPhone and Apple's messaging app the
+7:49
+messages are blue there are things like
+7:51
+an indicator of when one of us is typing
+7:54
+the videos that we send are really rich
+7:56
+the conversation is encrypted by default
+7:59
+right which makes it more private but if
+8:02
+I'm talking to someone who has an
+8:03
+Android their messages are green you
+8:06
+don't have things like that typing
+8:07
+indicator the videos can be more
+8:09
+pixelated the government says the
+8:11
+conversation isn't encrypted and the
+8:14
+government says that Apple has designed
+8:16
+this dichotomy the green bubble blue
+8:18
+bubble dichotomy in order to kind of
+8:21
+create a stigma around phones that are
+8:23
+not the iPhone suggest their lower
+8:25
+status and that indeed non iPhone users
+8:27
+suffer from a social stigma because they
+8:29
+don't have an iPhone and the Department
+8:32
+of Justice says that this is
+8:33
+particularly cute for teenagers and
+8:35
+presents data that like 88% of teenagers
+8:38
+say their next phone will be an iPhone
+8:41
+then the government quotes someone in
+8:43
+apple saying that making messages
+8:46
+compatible or more compatible across
+8:48
+types of phones would just open the door
+8:51
+to iPhone families giving their kids
+8:53
+Androids interesting so David I have to
+8:57
+tell you this is the point in the
+8:58
+episode where I admit to you that I do
+9:00
+not have an iPhone I have an Android
+9:02
+phone and you know maybe I suffer from
+9:04
+social stigma I am one of those green
+9:06
+messages in your phone in fact I think I
+9:07
+was this weekend um but you know I guess
+9:11
+it was about five years ago I just kind
+9:13
+of stepped out of the castle and swam
+9:15
+across the moat and it actually wasn't
+9:17
+that hard so I guess I'm wondering you
+9:20
+know how the doj is saying that this
+9:23
+actually harms consumers if you can just
+9:26
+leave like I did what's the actual harm
+9:30
+well first of all the statistics suggest
+9:33
+switching rates are relatively low from
+9:36
+iPhone to Android that relatively few
+9:38
+people have an iPhone and then they go
+9:40
+and buy an Android so you're saying
+9:42
+first of all Sabrina you're weird not
+9:44
+weird but perhaps statistically
+9:46
+anomalous so while data suggest that not
+9:48
+that many people switch the government
+9:50
+is saying that Apple has a durable
+9:53
+Monopoly over smartphones in the US
+9:55
+they're saying that by Revenue apple has
+9:58
+a more than 65 % share of smartphones
+10:01
+generally and a More than 70% share of
+10:03
+what they call Performance smartphones
+10:05
+so think about like high-end devices
+10:07
+from companies like Apple or Google or
+10:09
+Samsung and then because Apple has built
+10:12
+this very effective system this
+10:13
+effective Moe for maintaining that
+10:15
+Monopoly that it does not have to
+10:17
+compete with the Samsungs and the
+10:19
+Googles of the world in a full-fledged
+10:20
+way and that the way that that harms
+10:22
+consumers first and foremost is because
+10:24
+they don't have to compete on price that
+10:26
+they can continue to charge high prices
+10:29
+for for the iPhone because there is an
+10:31
+absence of competition here so
+10:33
+essentially the government is arguing
+10:35
+that Apple by Dent of having this what
+10:37
+it calls Monopoly you know this captive
+10:39
+audience basically is charging more to
+10:42
+Consumers that's right and the
+10:44
+government argues that there are other
+10:46
+harms too ones that might be a little
+10:48
+less material but that Apple's Monopoly
+10:51
+might harm the possibility of future
+10:55
+innovations that they're not allowing
+10:57
+companies to go create and offer an
+11:00
+iPhone cloud gaming service that they're
+11:02
+not allowing companies to go and create
+11:04
+an awesome digital wallet for the iPhone
+11:08
+that effectively they're making it
+11:10
+impossible for companies to go out and
+11:11
+invent new good things for consumers so
+11:13
+the government offers one idea here
+11:16
+which is you could imagine another
+11:17
+company let's say it's a bank or venmo
+11:21
+would offer its own digital wallet on
+11:23
+the iPhone and and could offer a benefit
+11:25
+to users like cashback every time they
+11:27
+use that digital wallet and if you play
+11:30
+that out there could be a competitive
+11:32
+process where apple offers its own
+11:34
+rewards to get people to use the Apple
+11:36
+wallet but what the government argues
+11:38
+here is that basically that whole
+11:40
+process of competition that leads to new
+11:42
+benefits for consumers has been short
+11:44
+circuited by Apple when it denied the
+11:46
+ability of other companies to put their
+11:48
+own digital Wallets on the phone because
+11:50
+the companies who would be inventing
+11:51
+those new good things can't go to the
+11:53
+main platform they'd be selling it on
+11:55
+because they're blocked right that
+11:56
+they're denied from accessing that
+11:58
+product to a big part of the market and
+12:00
+so it's not worth doing so David just
+12:02
+listening to you lay all of this out I
+12:05
+mean it really seems like apple is doing
+12:07
+what every company tries to do which is
+12:10
+to make it hard to leave their own
+12:12
+products right and switch to a
+12:14
+competitor's products I mean keeping
+12:16
+itself kind of sticky but I guess I'm
+12:18
+wondering is that actually illegal like
+12:22
+isn't that just smart business well and
+12:24
+that will be the question for the judge
+12:26
+who is hearing this
+12:28
+case
+12:30
+they will have to look at the arguments
+12:32
+laid out by the doj at the arguments
+12:34
+laid out by Apple and figure out did
+12:37
+this cross a line right from Simply
+12:39
+aggressively competing to something that
+12:41
+was against the
+12:44
+law and always these cases come down to
+12:46
+two stories one that the government
+12:48
+tells about a company that has
+12:49
+perniciously stepped over the line and
+12:52
+one the companies tell about how in fact
+12:54
+they're providing benefits to Consumers
+12:57
+and competing fairly and apple already
+13:00
+tells a very different story here it
+13:02
+says that what the Department of Justice
+13:05
+presents as this evil moat around the
+13:08
+iPhone that bundle of practices are in
+13:11
+fact one of the company's greatest
+13:16
+strengths we'll be right
+13:18
+[Music]
+13:28
+back
+13:31
+okay so David you just said that apple
+13:33
+is arguing that you know its defenses
+13:35
+this Mo that they've built that the
+13:37
+government is arguing is unfair and
+13:39
+illegal is actually one of its greatest
+13:42
+strengths so tell me about that what is
+13:44
+Apple saying exactly apple is saying
+13:47
+that the steps that it's taken that the
+13:48
+Department of Justice is painting as
+13:50
+illegal are in fact designed to create
+13:53
+an experience that consumers love and
+13:55
+that keeps them safe a major argument
+13:58
+for and a lot of these practices are
+14:00
+good for security and you've probably
+14:03
+noticed that Apple has sort of marketed
+14:04
+itself as a more private option A more
+14:06
+secure option they run ads about the
+14:09
+privacy of the iPhone right they've
+14:11
+gotten into a big fight with the
+14:12
+government over encryption in the San
+14:14
+Bernardino shooting several years ago I
+14:17
+remember this the FBI actually got the
+14:19
+guy's phone the phone of this Mass
+14:20
+shooter but then couldn't get into it
+14:22
+because the encryption software was so
+14:24
+strong on the iPhone exactly and apple
+14:27
+is saying that that commitment to
+14:29
+security lives in a lot of these
+14:30
+practices that the government is
+14:32
+targeting a great example is the wallet
+14:34
+so the way they exclude other companies
+14:37
+from making digital wallets is they
+14:38
+don't let them access the physical chip
+14:40
+that interacts with the technology at
+14:42
+the coffee shop to make the payment and
+14:45
+apple says they don't do that because
+14:46
+they want to create the safest and most
+14:48
+secure experience for users when they go
+14:51
+to pay for their coffee with their
+14:53
+sensitive banking
+14:55
+information but more broadly the
+14:57
+argument that apple is making here is
+14:59
+that all of these practices to control
+15:01
+the system around the iPhone to control
+15:04
+the experience for users on the iPhone
+15:06
+is about creating a sort of magical
+15:08
+Experience for iPhone users where
+15:10
+everything works together and apple is
+15:12
+saying that users love the end result
+15:15
+they love this experience and that apple
+15:17
+is going to defend that experience from
+15:20
+government intervention so apple is
+15:22
+basically saying look they're not
+15:24
+trapped they can leave anytime they want
+15:25
+they want to be here that's right and
+15:28
+they want to be there because they love
+15:29
+their Apple products right they want an
+15:31
+iPhone right exactly so what about the
+15:35
+Topline argument that doj is making that
+15:37
+Apple actually has an illegal Monopoly
+15:41
+on smartphones like you know that Apple
+15:43
+kind of has cornered the
+15:44
+market so Apple says that's just not
+15:47
+true so you may remember the Department
+15:49
+of Justice is arguing that Apple has by
+15:51
+Revenue in the United States a more than
+15:54
+65% share of the total smartphone market
+15:58
+Apple says no no no the way to
+16:00
+understand this is a global market
+16:02
+because outside the United States
+16:04
+iPhones are far less popular Androids
+16:06
+are more popular and so apple is saying
+16:09
+if you count the whole world we have
+16:11
+about a 20% share of the smartphone
+16:13
+market we don't have a monopoly at all
+16:16
+oh interesting so Apple's saying look
+16:17
+you got the wrong Universe right the
+16:19
+universe is not the United States the
+16:20
+universe is the world that's where we're
+16:22
+competing right that's exactly what
+16:24
+they're saying so David how do we think
+16:26
+this is actually going to go for Apple I
+16:28
+mean it's been in court on some of these
+16:31
+issues before right so what do those
+16:32
+cases tell us what they tell us is that
+16:35
+Apple fights back hard and when it does
+16:38
+make changes they're largely around the
+16:40
+margins of the business they've not
+16:42
+radically changed their business in
+16:43
+response to government pressure or
+16:45
+pressure from court cases so there's a
+16:47
+couple examples of
+16:49
+this one really contentious point over
+16:52
+the last several years has been that the
+16:54
+only way for a developer to get their
+16:56
+app onto the iPhone is to sell an Apple
+16:58
+Store and if you sell an Apple Store
+17:00
+once you offer some sort of inapp
+17:02
+purchase imagine a subscription or some
+17:05
+other digital good that you buy in the
+17:06
+app you have to use Apple's payment
+17:09
+system which takes a commission as high
+17:10
+as 30% now apple has a new high-profile
+17:14
+lawsuit on its hands the game developer
+17:16
+epic games has filed a lawsuit against
+17:18
+apple and so epic games Epic Games they
+17:21
+make fortnite and fortnite is hyper
+17:24
+popular which makes a very popular game
+17:26
+fortnite sued apple and they alleged
+17:28
+that this whole system was anti
+17:30
+competitive now the legal complaint
+17:32
+seeks to establish Apple's App Store as
+17:34
+a monopoly Apple says you can't go
+17:37
+around our system and buy directly from
+17:40
+epic games from fortnite you have to buy
+17:42
+through us they were trying to basically
+17:45
+bypass the payment system not pay that
+17:47
+potentially as high as 30%
+17:50
+commission well Apple stock tumbled a
+17:52
+little over 3% today after a judge's
+17:55
+ruling in the company's Court battle
+17:57
+with fortnite and the judge in the case
+17:59
+did require Apple to ease some of its
+18:02
+restrictions on app developers under the
+18:04
+ruling app developers will now be
+18:06
+allowed to send users to other payment
+18:08
+systems but it wasn't all bad for Apple
+18:12
+but the judge didn't make them abandon
+18:14
+their business model entirely the judge
+18:16
+also sided with the Tech Giant on every
+18:19
+other key point in the case Okay so
+18:22
+that's kind of a win for Apple although
+18:24
+slightly mixed one apple did make
+18:26
+changes but they didn't have to abandon
+18:28
+in the golden goof entirely right
+18:30
+another example is in Europe where the
+18:32
+company faces fresh charges from the
+18:34
+European commission over its App Store
+18:36
+practices the European commission fined
+18:39
+Apple 1.8 billion EUR in early March for
+18:42
+allegedly thwarting competition among
+18:45
+its music streaming Rivals and this was
+18:48
+driven by complaints from companies like
+18:49
+Spotify which say that Apple exerts an
+18:52
+unfair amount of control over the
+18:54
+relationship that they have with their
+18:56
+consumers the competition commissioner
+18:59
+said the company had for a decade abused
+19:01
+its dominant position in music streaming
+19:03
+apps but it's an example of Apple
+19:05
+fighting back they say they're going to
+19:06
+appeal this fine and it's expected that
+19:09
+process will go on for some
+19:12
+time so this is again Rivals alleging
+19:15
+that apple is kind of abusing its
+19:17
+Privileges and bigness with the App
+19:18
+Store and this is being investigated by
+19:20
+the European Union exactly the pattern
+19:23
+has been relatively clear over and over
+19:25
+again software developers have accused
+19:27
+Apple of taking onerous fees and
+19:30
+applying unfair policies to their
+19:32
+businesses Apple has fought back when
+19:35
+Apple has lost those fights they've
+19:36
+agreed to make minor concessions but
+19:38
+often they have continued to push back
+19:39
+and continued to fight now all of this
+19:42
+of course is the App Store we've been
+19:44
+talking about that's not the doj case
+19:46
+right the doj case is much bigger that's
+19:49
+right so effectively the kind of
+19:52
+aggressive control that Apple exerts
+19:54
+over app developers that Spotify and
+19:56
+epic games have been arguing about the
+19:58
+government is saying that Apple uses
+20:00
+that control in all kinds of different
+20:02
+ways to build this moat that protects
+20:04
+the thing it really cares about the
+20:06
+iPhone right and it's probably worth
+20:08
+noting here that Apple says that they
+20:10
+are changing some of the practices that
+20:12
+are laid out in this lawsuit that
+20:13
+they're going to make it easier for
+20:15
+messaging apps on different phones to
+20:17
+talk to each other and become more
+20:19
+permissive for gaming apps but it's
+20:21
+unclear how those changes might impact
+20:22
+the case David how much of an uphill
+20:26
+battle does the doj face here I mean I'm
+20:29
+thinking back to the case we talked
+20:30
+about you know against Google and it did
+20:33
+seem like quite a climb for the doj to
+20:35
+actually prove its case against this
+20:37
+Tech Giant proving these cases is
+20:40
+difficult and you're dealing with a
+20:42
+company with almost Limitless legal
+20:44
+resources they're going to fight back
+20:46
+hard and it will take a long time these
+20:49
+cases usually drag on before trial for
+20:52
+multiple years apple is expected to file
+20:54
+a motion to dismiss the doj lawsuit so
+20:57
+that will provide an early sense of how
+21:00
+strong the case is but the truth is the
+21:03
+current leadership of the justice
+21:04
+department may not be in place when this
+21:07
+case finally goes to trial so they filed
+21:09
+something that may well outlive them and
+21:12
+how does that political change affect
+21:14
+the case presumably they'll continue it
+21:16
+right well a new Administration could do
+21:19
+what they wanted to with the case this
+21:21
+investigation started under a Republican
+21:23
+president so it's possible a new
+21:25
+Administration would keep things going
+21:27
+but they could also settle with Apple or
+21:29
+withdraw the case all those things
+21:30
+remain options as they go to trial got
+21:33
+it and what is the doj's kind of dream
+21:36
+scenario here I mean what does it want
+21:38
+to have happen with Apple so the justice
+21:41
+department has asked first and foremost
+21:43
+for the court to stop them from doing
+21:44
+the things described in the lawsuit stop
+21:46
+them from excluding certain types of
+21:48
+apps or making certain products less
+21:50
+compatible with the iPhone than Apple's
+21:52
+own products but the devil will really
+21:55
+be in the details of the judge's ruling
+21:57
+if the judge rules that broke the law in
+21:59
+a lot of different ways that may
+22:01
+influence how the Department of Justice
+22:03
+ultimately asks the judge to fix matters
+22:05
+in this case so they could ask for
+22:08
+changes to Apple's Behavior they could
+22:09
+ask for changes to the structure of
+22:11
+Apple but they really are holding their
+22:13
+cards fairly close to the vest while
+22:15
+they wait to see how a court rules on
+22:17
+the substance of the allegations so
+22:19
+David I just want to step back here for
+22:20
+a second and really kind of think about
+22:22
+what the government is doing here it's
+22:25
+taking one of the single most valuable
+22:27
+companies in the the world and is trying
+22:30
+to fundamentally change the way that
+22:32
+company operates I mean that strikes me
+22:34
+as kind of a potentially risky thing to
+22:36
+do right it could be very damaging to
+22:38
+this valuable American company and as a
+22:41
+result to the US economy well the
+22:44
+government says that it's worth it that
+22:46
+enforcing the competition laws in this
+22:48
+country is good for the economy and
+22:51
+they've really leaned on the Justice
+22:53
+or's Long litigation with Microsoft at
+22:56
+the turn of this century basically
+22:58
+they've been arguing that Microsoft
+23:01
+would force to allow things like Apple's
+23:03
+own iTunes product onto windows and as a
+23:06
+result it opened the door for Apple to
+23:08
+build this whole ecosystem that resulted
+23:10
+in the iPhone so what the government
+23:13
+believes is that yes they are accusing a
+23:17
+major company of
+23:19
+wrongdoing but that in doing so they
+23:21
+will open the door to innovations that
+23:24
+we can't even conceive of so there would
+23:26
+be a net benefit for both American
+23:29
+society and for the economy right but
+23:32
+David there's an interesting tension
+23:33
+here right I mean of course the
+23:35
+government is arguing that you know all
+23:37
+of these things are in service of a
+23:38
+better brighter future in the American
+23:41
+economy but a lot of people would say
+23:43
+they choose Apple products because they
+23:45
+like them better like they like Apple's
+23:47
+you know ecosystem they like being in
+23:50
+the castle so I guess there's a real
+23:52
+contrast there with what the
+23:53
+government's trying to do because
+23:55
+fundamentally at the end of the day this
+23:58
+company is quite popular with
+24:00
+consumers well and the government
+24:02
+presents itself first and foremost as a
+24:03
+law enforcement agency that here is a
+24:06
+company that regardless of how popular
+24:08
+its products are has broken the law and
+24:11
+needs to be held to account but this is
+24:13
+a really fascinating moment for reasons
+24:15
+that go beyond any one case think about
+24:18
+what's Happening Here the government has
+24:20
+filed lawsuits against the biggest
+24:22
+defining American tech companies of our
+24:24
+era and it's promising that this will
+24:28
+lead to an Era of new innovation of
+24:30
+better choices for consumers even lower
+24:32
+prices and now we're going to see
+24:35
+whether or not they were right and
+24:37
+consumers will see it in the way that
+24:40
+these products change in the way that
+24:42
+this industry which defines so many
+24:44
+aspects of American Life operates going
+24:47
+[Music]
+24:55
+forward David thank you thank you for
+24:58
+having
+25:02
+me we'll be right
+25:05
+[Music]
+25:13
+back here's what else you should know
+25:15
+today I shall put the draft resolution
+25:18
+to the vote now on Monday the United
+25:21
+Nations security Council passed a
+25:23
+resolution calling for an immediate
+25:25
+ceasefire in Gaza breaking a 5-month
+25:29
+impass in which the United States vetoed
+25:32
+multiple calls for a halt to the
+25:35
+fighting the us abstained from the vote
+25:38
+allowing the resolution to pass the
+25:40
+result of the Voting is as follows 14
+25:43
+votes in favor zero vote against one
+25:49
+abstention the draft resolution has been
+25:52
+adopted at resolution
+25:54
+2728
+25:57
+2024 the us faced immediate criticism
+25:59
+from Israel's prime minister Benjamin
+26:02
+Netanyahu who canceled meetings in
+26:04
+Washington between an Israeli delegation
+26:07
+and US officials a public rebuke to
+26:10
+President Biden who had asked for the
+26:13
+meetings and President Vladimir Putin of
+26:17
+Russia acknowledged for the first time
+26:19
+that the bloody assault on a concert
+26:21
+hall near Moscow was executed by quote
+26:24
+radical islamists however he continued
+26:27
+to assert that Ukraine probably played a
+26:30
+role Putin said that the tragedy was
+26:33
+likely ordered by Ukraine asserting that
+26:35
+the asants were on their way there after
+26:38
+their attack and saying quote the
+26:41
+question is who benefited from
+26:44
+it finally Donald Trump is all but
+26:47
+certain to become the first former US
+26:50
+president to stand trial on criminal
+26:52
+charges after a judge on Monday denied
+26:55
+his effort to delay the proceedings
+26:58
+the trial in which Trump will be accused
+27:01
+of orchestrating the coverup of a sex
+27:03
+scandal surrounding his 2016
+27:05
+presidential campaign will begin on
+27:07
+April
+27:10
+15th today's episode was produced by
+27:12
+Carlos prido muj zadii and Eric krupy
+27:16
+with help from Summer tamod it was
+27:19
+edited by Liz oalen contains original
+27:22
+music by Brad fiser Dan Powell Marian
+27:25
+Lozano Diane Wong and Alicia butu and
+27:29
+was engineered by Alyssa
+27:31
+Moxley our theme music is by Jim runberg
+27:34
+and Ben lansberg of
+27:36
+[Music]
+27:40
+wonderly that's it for the daily I'm
+27:43
+Sabrina Tavern see you
+27:48
+tomorrow

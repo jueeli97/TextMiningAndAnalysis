@@ -1,0 +1,580 @@
+The Miseducation of Google’s A.I.
+
+
+0:01
+from New York Times I'm Michael babbaro this is the [Music]
+0:10
+daily today when Google recently released a new chatbot powered by artificial
+0:17
+intelligence it not only backfired it also Unleashed a fierce debate about
+0:23
+whether AI should be guided by social values and if so whose values they
+0:30
+should be my colleague Kevin Roose a tech columnist and co-host of the podcast
+0:37
+hard Fork [Music] [Applause]
+0:44
+explains it's Thursday March [Music]
+0:53
+7th are you ready to record another episode of chatbots Behaving Badly yes
+Googles AI debacle
+0:59
+yes I am that's why we're here today this is my function on this podcast is to tell you
+1:05
+when the chat Bots are not okay and Michael they are not okay they keep Behaving Badly they do keep Behaving
+1:12
+Badly so there's plenty to talk about right well so let's start there it's not exactly a secret that the roll out of
+1:19
+many of the artificial intelligence systems over the past year and a half
+1:24
+has been really bumpy we know that because one of them told you to leave your wife that's true
+1:30
+and you didn't still happily married yep to a human not Sydney the chatbot and so
+1:35
+Kevin tell us about the latest of these rollouts this time from one of the
+1:41
+biggest companies not just in artificial intelligence but in the world that of course being Google yeah so a couple
+1:49
+weeks ago Google came out with its newest line of AI models it's actually
+1:54
+several models um but they are called Gemini and Gemini is what they call a
+2:00
+multimodal AI model which it can produce text it can produce images and it
+2:07
+appeared to be very impressive Google said that it was sort of the state-of-the-art its most capable model
+2:13
+ever and Google has been under enormous pressure for the past year and a half or
+2:19
+so ever since chat GPT came out really to come out with something that is not only more capable than the models that
+2:27
+its competitors in the AI industry are building but something that will also solve some of the problems that we know
+2:34
+have plagued these AI models problems of acting creepy or not doing what users
+2:39
+want them to do of getting facts wrong and being unreliable people think okay
+2:45
+well this is Google they have this sort of reputation for accuracy to uphold surely their AI model will be the most
+2:53
+accurate one on the market right and instead we've had the latest AI debacle
+3:00
+so just tell us exactly what went wrong here and how we learned that something
+3:06
+had gone wrong well people started playing with it and and experimenting as
+3:11
+people now are sort of accustomed to doing whenever some new AI tool comes out of the market people immediately
+3:16
+start trying to figure out you know what is this thing good at what is it bad at where are its boundaries what kinds of
+3:21
+questions will it refuse to answer what kinds of things will it do that maybe it shouldn't be doing and so people started
+3:28
+probing the boundaries of this new AI tool Gemini and pretty quickly they
+3:34
+start figuring out that this thing has at least one pretty bizarre characteristic which is what so the
+3:40
+thing that people started to notice first was a peculiarity with the way that Gemini generated images now this is
+3:47
+one of these models like we've seen from other companies that can take a text prompt you know you say draw a picture
+3:53
+of a dolphin riding a bicycle on Mars and it'll give you a dolphin riding a bicycle on Mars magically Gemini has
+4:00
+this kind of feature built into it and people noticed that Gemini seemed very reluctant to generate images of white
+4:07
+people so some of the first examples that I saw going around were screenshots
+4:13
+of people asking Gemini you know generate an image of America's founding fathers and instead of getting sort of
+4:20
+what would be a pretty historically accurate representation of a group of you know white men they would get
+4:26
+something that looked like the cast of Hamilton they would get you know series of people of color dressed as the
+4:32
+founding fathers interes people also noticed that if they asked Gemini to draw a picture of a pope it would give
+4:39
+them basically people of color wearing the vestments of the Pope and once these
+4:45
+images these screenshots start going around on social media more and more people start jumping into use Gemini and
+4:52
+try to generate images that they feel it should be able to generate you know someone asked it to generate an image of
+4:58
+the founders of Google uh Larry Page and Sergey Brin both of whom are white men
+5:04
+Gemini depicted them both as Asian so these sort of strange transformations of
+5:11
+what the user was actually asking for into a much more diverse and ahistorical
+5:17
+version of what they'd been asking for right a kind of distortion of people's
+5:23
+requests yeah and then people start trying other kinds of requests on Gemini
+5:28
+and they notice that this isn't just about images they also find that it's giving some pretty bizarre responses to
+5:35
+text prompts so several people asked Gemini whether Elon Musk tweeting memes
+5:42
+or Hitler negatively impacted Society more uh you know not exactly a close
+5:49
+call no matter what you think of Elon Musk it seems pretty clear that he is not as harmful to society as Adolf
+5:56
+Hitler Fair Gemini though said quote it is not possible to say
+6:01
+definitively who negatively impacted Society more Elon tweeting memes or
+6:07
+Hitler another user found that Gemini refused to generate a job description
+6:13
+for an oil and gas lobbyist basically it would sort of refuse and then give them a lecture about why you shouldn't be an
+6:19
+oil and gas lobbyist so quite clearly at this point this is not a oneoff thing Gemini appears to have some kind of
+6:27
+point of view it certainly appears that way to a lot of people who are testing
+6:33
+it and it's immediately controversial for the reasons you might
+6:38
+suspect Google apparently doesn't think whites exist if you ask Gemini to
+6:44
+generate an image of a white person it can't compute a certain subset of people I would call them like right-wing
+6:49
+culture Warriors started posting these on social media with captions like you know Gemini is anti-white or Gemini
+6:56
+refuses to acknowledge white people I think that the chatbot sounds exactly like the people who programmed it it
+7:03
+just sounds like a woke person Google Gemini looks more and more like big Tech's latest efforts to brainwash the
+7:09
+country conservatives start accusing them of making a woke AI that is infected with this Progressive Silicon
+7:17
+Valley ideology the house Judiciary Committee is subpoena all communication regarding this Gemini Project with the
+7:23
+executive branch Jim Jordan the Republican congressman from Ohio comes out and accuses Google of working with
+7:29
+Joe Biden to develop Gemini which is sort of funny if you can think about Joe Biden being asked to develop an AI
+7:35
+language model but this becomes a huge dust up
+7:41
+for Google it took Google nearly two years to get Gemini out and it was still riddled with all of these issues when it
+7:48
+launched that Gemini AI program made so many mistakes it was really an embarrassment first of all this thing
+7:54
+would be a Gemini um and that's because these problems are not just bugs in a
+7:59
+new piece of software there's signs that Google's big new ambitious AI project
+8:05
+something the company says is a huge deal may actually have some pretty significant flaws and as a result of
+8:12
+these flaws you don't see this very often one of the biggest drags on the NASDAQ at this hour alphabet shares app
+8:18
+parent company alphabet dropping more than 4% today the company's stock price actually falls wow the CEO Sundar pachai
+8:26
+calls Gemini's behavior unacceptable and Google actually pauses Gemini's ability
+8:31
+to generate images of people Al together until they can fix the problem wow so
+8:37
+basically Gemini is now on ice when it comes to these problematic images yes
+8:42
+Gemini has been a bad model and it is in timeout so Kevin what was actually
+8:49
+occurring within Gemini that explains all of this what happened here and were
+8:56
+these critics right had had Google intentionally or not created a kind of
+9:03
+woke AI yeah the question of why and how this
+9:08
+happened is really interesting and I think there are basically two ways of answering it one is sort of the technical side of this like what
+9:14
+happened to this particular AI model that caused it to produce these undesirable responses the second way is
+9:21
+sort of the cultural and historical answer like why did this kind of thing happen at Google how has their own
+9:28
+history as a company with AI informed the way that they've gone about building and training their new AI products all
+9:36
+right well let's start there with Google's culture and how that helps us
+9:42
+understand this all yeah so Google as a company has been really focused on AI for a long time for more than a decade
+9:49
+and one of their priorities as a company has been making sure that their AI products are not being used to advance
+9:56
+bias or Prejudice and the reason that's such a big priority for them really goes
+10:02
+back to an incident that happened almost a decade ago so in 2015 there was this
+10:08
+new app called Google photos I'm sure you've used it many many people use it including me and Google photos I don't
+10:15
+know if you can remember back that far but it was sort of an amazing new app it could use AI to automatically detect you
+10:22
+know faces and sort of link them with each other with the photos of the same people you could ask it for photos of
+10:28
+dogs and it would find all of the dogs in all of your photos and sort of categorize them and label them together
+10:34
+mhm and people got really excited about this but then in June of 2015 something
+10:41
+happened a user of Google photos noticed that the app had mistakenly tagged a
+10:46
+bunch of photos of black people as a group of photos of gorillas wow yeah it
+10:52
+was really bad this went totally viral on social media and it became a huge
+10:57
+mess within Google and what had happened there what had led to that mistake well
+11:03
+part of what happened is that when Google was training the AI that went into its photos app it just hadn't given
+11:10
+it enough photos of black or darkskinned people and so it didn't become as accurate at labeling photos of Darker
+11:16
+skinned people and that incident showed people at Google that if you weren't careful with the way that you build and
+11:24
+train these AI systems you could end up with an AI that could very easily make make racist or offensive mistakes right
+11:32
+and this incident which some people have talked to have referred to as the gorilla incident became just a huge
+11:38
+Fiasco and a flasho in Google's AI trajectory because as they're developing
+11:44
+more and more AI products they're also thinking about this incident and others like it in the back of their minds they
+11:50
+do not want to repeat this and then in later years Google starts making
+11:55
+different kinds of AI models models that can not only label and sort images but
+12:01
+can actually generate them they start testing these image generating models that would eventually go into Gemini and
+12:07
+they start seeing how these models can reinforce stereotypes for example if you
+12:13
+ask one for an image of a CEO or even something more generic like show me a an
+12:18
+image of a productive person people have found that these programs will almost uniformally show you images of white men
+12:26
+in an office or if you ask it to say generate an image of someone receiving
+12:31
+Social Services like welfare some of these models will almost always Show you people of color even though that's not
+12:38
+actually accurate lots of white people also receive welfare and Social Services of course so these models because of the
+12:45
+way they're trained because of what's on the internet that is fed into them they do tend to skew towards stereotypes if
+12:52
+you don't do something to prevent that right you've talked about this in the past with us Kevin AI operates in some
+12:59
+ways by ingesting the entire internet its contents and reflecting them back to
+13:05
+us and so perhaps inevitably it's going to reflect back the stereotypes and
+13:10
+biases that have been put into the internet for decades you're saying
+13:15
+Google because of this gorilla incident as they call it says we think there's a
+13:21
+way we can make sure that that stops here with us yeah and they invest enormously into building up their teams
+13:29
+devoted to AI bias and fairness they produce a lot of cutting edge research
+13:35
+about how to actually make these models less prone to you know old-fashioned
+13:40
+stereotyping and they did a bunch of things in Gemini to try to prevent this
+13:45
+thing from just being a very essentially fancy stereotype generating machine and
+13:51
+I think a lot of people at Google thought this is the right goal we should be combating bias in AI we should be
+13:57
+trying to make our systems as fair and diverse as
+14:03
+possible but I think the problem is that in trying to solve some of these issues with bias and stereotyping in AI Google
+14:12
+actually built some things into the Gemini model itself that ended up backfiring pretty
+14:18
+[Music]
+14:27
+badly
+14:35
+we'll be right back so Kevin walk us through the
+The technical explanation
+14:42
+technical explanation of how Google turned this ambition it had to safeguard
+14:49
+against the biases of AI into the day-to-day workings of Gemini that as
+14:55
+you said seem to very much backfire yeah I I'm happy to do that with the caveat that we still don't know exactly what
+How to fix biases
+15:01
+happened in the case of Gemini Google hasn't done a full postmortem about what
+15:06
+happened here but I'll just talk in general about three ways that you can take an AI model that you're building if
+15:13
+you're Google or some other company and make it less biased mhm the first is that you can actually change the way
+15:19
+that the model itself is trained you can think about this sort of like changing the curriculum in the AI models school
+15:26
+like you can give it more diverse data to learn from that's how you fix something like the Guerilla incident you
+15:32
+can also do something that's called reinforcement learning from Human feedback which I know is a very technical term sure is and that's a
+15:39
+practice that has become pretty standard across the AI industry where you basically take a model that you've trained and you hire a bunch of
+15:46
+contractors who sort of poke at it to put in various prompts and see what the model comes back with and then you
+15:52
+actually have the people rate those responses and feed those ratings back into the system what kind of army of
+15:59
+tisk tiers saying do this don't do that exactly so that's one level at which you
+16:05
+can try to fix the biases of an AI model is during the actual building of the
+16:10
+model got it you can also try to fix it afterwards so if you have a model that
+Prompt transformation
+16:17
+you know may be prone to spitting out stereotypes or offensive imagery or text
+16:23
+responses you can ask it not to be offensive you can tell the model essentially obey these principles don't
+16:30
+be offensive don't stereotype People based on race or gender or other
+16:36
+protected characteristics you can take this model that has already gone through school and just kind of give it some
+16:42
+rules and do your best to make it adhere to those rules essentially a set of laws that it must obey exactly the third way
+16:50
+that you can make an AI systems responses less biased is by changing the
+16:57
+requests themselves this is a new technique that has been developed in the AI industry over the
+17:02
+past year or two and some people have called this prompt transformation H just
+17:07
+explain it so prompts are the things that you type to an AI model any request that you make of one of these chat Bots
+17:15
+is known as a prompt prompt transformation grew out of the observation that many people were not
+17:21
+that good at coming up with prompts that got them the responses they wanted so you know there are these people called
+17:28
+promp engineers in Tech who basically are are masters of putting in the right keywords to elicit the best possible
+17:35
+image or the best possible text response but most people are not prompt Engineers most people they want a dolphin riding a
+17:42
+bicycle on Mars they're just going to type dolphin riding bicycle on Mars and hope for the best so somewhere along the
+17:50
+way these AI companies realized that people would be happier with the results of their prompts if they actually
+17:56
+transformed them along the way so you type dolphin riding bicycle on Mars in
+18:03
+an AI model that uses prompt transformation that prompt will actually be Rewritten before it is passed to the
+18:09
+AI model so it might insert additional keywords or instructions on what this
+18:14
+dolphin riding a bicycle on Mars should look like or what should be in focus and
+18:20
+should it be you know a cartoon or a hyper realistic photo and that is what's
+18:26
+known as prompt transformation essentially unseen editing of our questions before Gemini or any AI system
+18:36
+goes and looks for the results yes and this is a practice that has become somewhat common among these AI models
+18:44
+and I should say like there might be times where this would be a useful and good thing you're like I am not the best
+18:50
+person at writing these prompts for these AI models so in some cases I might be glad that gemini or do or another one
+18:57
+of these AI image generators would actually step in and help me write a better prompt the problem is that
+19:04
+somewhere along the way it appears that Google decided to use prompt transformation for things that weren't
+19:10
+just about getting people better higher quality answers that they should actually start putting things in these
+19:16
+kind of invisible middle prompts about diversity and inclusion and that that was sort of how it was going to ensure
+19:24
+that users were not just going to be getting pictures of white men when they asked for a CEO so what Google appears to be up to here
+Corporate value
+19:30
+is not just editing a search to get the best possible image that a person is seeking they're editing these searches
+19:38
+to embody this corporate value that you have been talking about of diversity and of inclusion that's what we think may
+19:44
+have happened here yes we don't know that for sure but it does appear from my reporting and some of the other
+19:49
+reporting on this issue that Google was using prompt transformation in Gemini
+19:55
+and that that may have been part of why people started seeing these strange ahistorical results so in the end Kevin
+20:01
+it seems like these three interlocking layers that you just laid out that
+20:07
+Google handed to Gemini to try to have it embody Google's goal of avoiding bias
+20:15
+and being inclusive it ended up becoming a kind of
+20:20
+overcorrection for whatever it was Google was trying to do cuz I have to think Google was not hoping that images
+20:27
+of the founding father would come back as a historic or that Gemini would suggest that Elon Musk was
+20:36
+as bad if not worse than Adolf Hitler so is that essentially what happened here
+20:42
+an ambition went too far yeah that's essentially what Google has said in trying to explain what
+Ambition
+20:49
+happened here is they were trying to correct for this very real issue of biased Ai and they did so in sort of a
+20:56
+ham-handed and clumsy way mhm and it's a really tricky thing for Google which to
+21:03
+this point has tried to appear mostly neutral I mean if you search on a
+21:09
+regular old Google search not related to Ai and you don't like what you find you
+21:14
+know say you searched for the founding fathers and what you get back is not what you wanted you don't necessarily
+21:19
+get mad at Google for that you get mad at the people who made the websites with the stuff that offended you on it right
+21:26
+but with Gemini Google is essentially giving you one answer that it is sort of
+21:33
+seen as endorsing like this is not the internet's answer to your question this is our answer to your question and
+21:38
+that's what starts to get them into trouble right because it starts to look like in this version of Google where
+21:45
+Google itself is telling you what the truth is that it's put some real spin on
+Spin on the Ball
+21:52
+the ball and you've hinted at this but that spin on the ball feels too many
+21:57
+like like the spin of liberal Coastal Elites who have this value of diversity
+22:06
+and of inclusion yeah absolutely I mean this goes back to one of the criticisms that has been leveled against Silicon
+22:12
+Valley Tech companies for years about other issues not necessarily AI I mean
+22:17
+remember the content moderation debates that we've been having for the last decade are all about to what extent the
+22:24
+fact that these companies are based in California and employ you know mostly left of center people
+22:30
+and have these sort of corporate missions that sound very Progressive to what extent is that influencing what
+22:36
+ends up being built into their products and this was just sort of the latest Salvo in that war but there's also a lot
+22:43
+of other people including some who are not part of the sort of partisan political right who just see this as a
+22:50
+product failure like this chatbot that is from Google a company that is supposed to organize all of the
+22:55
+information in the world and make it useful and accessible to people that this chatbot is essentially not doing
+23:02
+what it's supposed to do it's not giving people what they're looking for and so it is not just offensive sort of politically but it is also just a bad
+23:09
+product I guess the question is is it even possible to build an AI system that
+23:15
+is free from some version of a social
+23:21
+value I mean is there anything approaching neutrality if you've got a bunch of
+23:27
+Engineers who were going through the steps you just described which is having people grade it and reinforce it giving
+23:33
+it instructions and making its prompts quote unquote better I think it's very
+Options
+23:40
+tricky because the alternative to doing this stuff one of them would be to not do any of these so-called mitigations to
+23:47
+just let the model spit out stereotypes and bias representations to everything
+23:53
+that users ask and I think we've seen from the recent past that people don't want want that either so these companies
+24:00
+very much feel like they need to do something to combat the inherently biased outputs of these models which are
+24:07
+by the way just a reflection of our biases as humans because these models after all are trained on the internet
+24:14
+which we humans have created so there's a sense in which they're stuck between a
+24:19
+rock and a hard place here they can't just leave these models as they are without trying to mitigate some of the
+24:25
+worst behaviors but they also have now gotten into this Fiasco by trying to
+24:31
+correct for some of those biases I think there are options here that lie between those two binary
+24:37
+choices that could be pretty interesting like what so one way that you could try
+24:43
+to solve this problem or split the difference here is through giving users more choice and making these chat Bots
+24:50
+more personalized so right now whether it's you or me or someone else using Gemini we're all sort of using the same
+24:57
+thing but in the future these models could learn about us and what we like and what
+25:04
+our political views and preferences are and learn to better predict what kind of
+25:10
+response would feel good and satisfying and accurate to each one of us individually and tailor itself to what
+25:16
+it knows about us you could also Imagine A system that gave users a choice you know do you want me to respond to this
+25:23
+query as if I am a gender studies Professor or a fo News host like which
+25:29
+of these personas would you like it to adopt and let the user decide here's the kind of response that I'm looking for
+25:36
+well then you're going to get the AI that you want that fits your world viiew which in theory might be appealing to
+25:41
+lots of different people but then we're going to get an AI that does what the
+25:46
+rest of the internet does which is reinforce people's views deepen their
+25:53
+biases and keep us as hopelessly splintered as we we already are if not
+26:00
+more yeah that's definitely a trade-off with that approach is that you do risk sort of making this filter bubble
+Conclusion
+26:07
+problem where we're all just seeing our own individually tailored realities you do run the risk of making that worse but
+26:15
+I think the question of which values these AI systems are supposed to embody is the right one to be asking because
+26:22
+these things are not just toys they are not just things that people on the internet play around with and screenshot
+26:28
+and get mad at these are tools that businesses and governments are now using
+26:33
+they're being used in schools to educate students the stakes for this kind of
+26:39
+thing are really high and it really does matter which values we are giving to
+26:44
+these machines and telling them to emulate so you could imagine you know companies making those values but we
+26:51
+know now that that's not a foolproof process you can imagine users making these decisions about what values they
+26:57
+they want AI to have but that has the problem that you just alluded to there
+27:02
+are other kinds of experiments that you can imagine running what if you you know let people vote on how they want
+27:08
+chatbots to behave what if it was some sort of democratic process but that has its own trade-offs too so I don't think
+27:15
+there's a perfect answer out there but I'm positive that as these AI systems continue to get better and more capable
+27:22
+this issue of what values do they have are they aligned with my value vales as
+27:28
+a user that's only going to become more and more pressing and the pressure on companies like Google to please everyone
+27:35
+with these chat Bots is only going to get more and more [Music]
+27:48
+intense well Kevin thank you very much thank you
+27:54
+Michael the latest episode of Kevin's podcast hard hard Fork which covers the world of tech is out tomorrow to find it
+28:02
+search for hardfork wherever you
+28:08
+listen we'll be right
+28:14
+back here's what else you need to know today I am filled with the gratitude for
+28:20
+the outpouring of support we've received from all across our great country but
+28:25
+the time has now come to suspend my campaign Nikki Haley ended her campaign
+28:31
+for the Republican Presidential nomination on Wednesday following a string of resounding losses on super
+28:38
+Tuesday that left her with no chance of stopping Donald Trump in 15 races across
+28:45
+the US Trump won all but one state Vermont bringing his delegate count up
+28:51
+to more than 1,000 Haley by comparison has fewer than 90 in all likelihood
+28:58
+Donald Trump will be the Republican nominee when our party convention meets in July but unlike nearly every other
+29:05
+Republican candidate who has left the race Haley chose not to endorse trump it
+29:11
+is now up to Donald Trump to earn the votes of those in our party and Beyond it who did not support him and I hope he
+29:18
+does that this is now his time for choosing and the houthi militia has
+29:26
+claimed resp responsibility for an attack on a commercial vessel off the coast of Yemen that killed two people on
+29:33
+Wednesday the deaths are the first fatalities from houthi attacks since the
+29:38
+group began targeting ships late last year as a form of protest against Israel's invasion of
+29:48
+Gaza today's episode was produced by Stella tan AA chv and Mary Wilson with
+29:55
+research help by Susan Lee it was edited by Brendan clink BG contains original
+30:01
+music by Diane Wong Marian Lozano and will Reed and was engineered by Alyssa
+30:08
+Moxley our theme music is by Jim brunberg and Ben lansberg of
+30:18
+[Music] wonderly that's it for the daily I'm
+30:24
+Michael babbaro see you tomorrow [Music]
+30:30
+I

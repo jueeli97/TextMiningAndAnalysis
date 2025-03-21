@@ -1,0 +1,1029 @@
+Why Boeing’s Top Airplanes Keep Failing
+
+
+
+0:01
+from The New York Times I'm Sabrina
+0:03
+Tavern and this is the
+0:06
+[Music]
+0:10
+daily questions have swirled for weeks
+0:13
+over what went wrong on an Alaska
+0:15
+Airlines flight where a piece of the
+0:17
+plane blew out into the sky terrifying
+0:20
+passengers and renewing concerns about
+0:22
+the plane's manufacturer
+0:25
+Boeing last week in Washington we
+0:27
+started to get some answers today my
+0:31
+colleague Sydney Ember
+0:33
+[Music]
+0:40
+[Applause]
+0:46
+explains it's Monday February
+0:48
+[Music]
+0:54
+12th Sydney welcome to the show hi hi so
+Background
+0:59
+Sydney last month there was this
+1:01
+terrifying incident on an Alaska
+1:03
+Airlines flight a door fell off the
+1:06
+plane while it was in midair and since
+1:08
+then there's been this kind of laundry
+1:10
+list of unanswered questions about what
+1:12
+went wrong and ultimately you know who
+1:15
+was responsible for that and so last
+1:17
+week we started to get some of our first
+1:19
+clear answers but let's start with the
+1:21
+accident itself walk us through what
+1:23
+happened so Boeing has been under the
+1:25
+microscope for about 5 years after two
+1:28
+crashes in 2018 and early 2019 killed
+1:33
+nearly 350 people and these planes which
+1:35
+are Boeing 737 Max eight planes
+1:39
+important plane for Boeing and for
+1:41
+airlines in the United States right
+1:43
+extremely important this had become one
+1:45
+of boeings bestselling planes you know
+1:48
+it was flying all around the world and
+1:51
+these crashes cost Boeing billions of
+1:53
+dollars and it vowed to make the max 8s
+1:57
+much much safer but then this incident
+2:00
+in January happens this time with a Max
+Takeoff
+2:06
+[Music]
+2:08
+9 on January 5th Alaska Airlines flight
+2:11
+1282 takes off from Portland
+2:13
+International Airport heading to Ontario
+2:16
+California and about 10 minutes after
+2:18
+takeoff at about 16,000 ft you just hear
+2:21
+a big boom there's a loud bang it was
+2:24
+silent for like 1 second and then you
+2:26
+would just feel and hear a lot of air
+2:28
+going around freezing for
+2:30
+air the plane rattles the oxygen masks
+2:34
+drop lights flicker so at first I
+2:37
+thought it was just the window and then
+2:39
+I realized it was the whole panel
+2:40
+passengers start realizing there's a
+2:42
+giant hole now in the
+2:45
+plane me the nature of the emergency and
+2:48
+your intentions Seattle alas 122 we just
+2:51
+press we declar emergency we need a
+2:54
+defend God that is terrifying yeah this
+2:57
+is a really really scary moment for a
+3:00
+lot of passengers I think a lot of them
+3:02
+are thinking the
+3:06
+worst and please your SE with your SE
+3:09
+secely until you are told to stand up
+3:12
+thank
+3:13
+you the pilots eventually make an
+3:16
+emergency landing back in
+Landing
+3:22
+Portland and what had happened was a
+3:25
+panel called a door plug that panel had
+3:28
+fallen off the pl essentially there are
+3:31
+no serious injuries but it could have
+3:34
+been catastrophic if this had happened
+3:36
+at cruising altitude roughly 30,000 ft
+3:39
+or or higher up especially if passengers
+3:42
+hadn't been wearing their seat belts or
+3:44
+if people had been moving around as they
+3:46
+often are when planes get up to cruising
+3:48
+altitude MH so really kind of miraculous
+3:51
+that no one was actually hurt I mean
+3:53
+they were pretty close to getting into a
+3:55
+Zone where there could have been some
+3:56
+pretty serious injuries so what's the
+3:58
+reaction to this I mean aside from the
+4:01
+obvious Terror of the
+4:02
+passengers well the question immediately
+4:04
+is who is to blame is it Alaska Airlines
+4:08
+is it Boeing is it Spirit AOS systems
+4:11
+which built the body of the plane and
+4:12
+then shipped it to Boeing's Factory and
+4:14
+rent in Washington is it the FAA and
+4:17
+federal Regulators no one really knows
+4:19
+in the immediate aftermath and as these
+4:21
+questions are swirling what happens
+4:22
+almost immediately is the Federal
+4:24
+Aviation Administration the main
+4:26
+regulator for Airlines grounds Max 9
+4:29
+planes with this door plug so it amounts
+4:31
+to about 170 max9 planes in this country
+4:35
+got it and that seems like a lot right
+4:38
+yeah I mean the two airlines in the
+4:41
+United States that fly Max 9's at this
+4:43
+point are just Alaska and United
+4:46
+Airlines but these are you know sizable
+4:49
+portions of their Fleet Alaska has 65
+4:52
+Max 9es and United has 79 the most of
+4:56
+any us carrier at this point so this
+4:58
+snarls their schedule pilots and flight
+5:00
+attendants can't get to their next
+5:03
+destination they can't get home because
+5:05
+the planes that they were supposed to
+5:06
+fly on have been grounded so it's a
+5:09
+sizable number of planes that are doing
+5:11
+a lot of work and this becomes a big
+5:13
+problem for those Airlines and what do
+5:16
+the airlines themselves say I mean
+5:18
+specifically Alaska Airlines perhaps you
+5:20
+know these are Boeing's customers right
+5:23
+how do they respond to this Well Airline
+5:26
+CEOs come out pretty forcefully blaming
+5:28
+Boeing I'm more than frustrated and
+5:30
+disappointed the Alaska Airline CEO I am
+5:33
+angry this he says I am angry my Demand
+5:36
+on Boeing is what are they going to do
+5:38
+to improve their quality programs in
+5:40
+housee and then in addition this Echoes
+5:43
+what a lot of CEOs say they want to hold
+5:46
+Boeing accountable they're really
+5:47
+frustrated with Boeing itself and near
+5:51
+the end of January something else
+5:53
+happens that puts some more pressure on
+5:55
+the airlines that ramps up the
+5:57
+frustration even more the FAA takes
+6:01
+further action and orders Boeing to
+6:03
+limit its planned increase in production
+6:06
+of all of its 737 Max planes and help me
+6:09
+understand what that means so the
+6:11
+federal government is saying you can't
+6:12
+make this plane anymore basically the
+6:14
+federal government is limiting how many
+6:16
+planes Boeing can make and this
+6:17
+effectively limits how many planes they
+6:19
+can produce a year so they can focus on
+6:21
+safety at the end of the year they said
+6:23
+they were making about 38 planes a month
+6:26
+and they had hoped to increase that to
+6:27
+42 planes a month this year and further
+6:30
+increase that in
+6:32
+2025 but this really limits that for the
+6:34
+foreseeable future and possibly for many
+6:37
+months I mean the federal government is
+6:38
+effectively saying we don't trust you to
+6:40
+make this plane properly it basically
+6:42
+says you cannot ramp up your production
+6:44
+until you've proven to us that you've
+6:45
+resolved your quality control issues but
+6:48
+even with these limits on production the
+6:50
+FAA still clears the previously grounded
+6:53
+Max 9's after inspections and after
+6:56
+they're deemed safe to fly okay but at
+6:58
+this point you you know a lot of fingers
+7:00
+are pointing at Boeing but we still
+7:02
+don't actually know the answer for who's
+7:04
+responsible for this door blowout yeah
+7:06
+that's right we still don't know who is
+7:08
+at fault but in early February things
+7:11
+get worse for Boeing Boeing says that A
+7:15
+supplier found two milled holes on Max
+7:19
+planes and this was going to cause them
+7:22
+to have to rework about 50 planes and
+7:25
+potentially delay delivery of those
+7:27
+planes as well Boeing sort of got ahead
+7:29
+of this and announcing it but it's still
+7:32
+painting a picture of something is a
+7:35
+Miss with Boeing and their quality
+7:37
+control which brings us to last week
+7:39
+when all of this ends up in Washington
+7:41
+that's right so on Tuesday morning there
+7:43
+is a house hearing with the faa's
+7:47
+administrator Mike Whitaker and he says
+7:50
+they're going to increase their on the
+7:53
+ground presence in monitoring Boeing's
+7:55
+manufacturing but he doesn't face the
+7:58
+kind of grilling about Boeing that I
+7:59
+think some thought or hoped he
+Door Plug
+8:03
+might the national Transportation safety
+8:06
+board has released new information on
+8:08
+the Alaska Airlines plane that lost a
+8:10
+door panel but the real bombshell comes
+8:12
+later in the day when the national
+8:14
+Transportation safety board releases its
+8:17
+preliminary report on the incident it
+8:20
+doesn't have the full accounting of
+8:21
+everything but it is our first official
+8:23
+snapshot of what happened what does it
+8:26
+say what's in the report four bolts like
+8:28
+this one
+8:29
+hold the door plug into the side of the
+8:32
+737 Max 9 there are two at the top and
+8:34
+two at the bottom this report says there
+8:37
+are two pairs of bolts on the door plug
+8:40
+that was supposed to help hold the plug
+8:42
+in place on the plane's body that's
+8:44
+critical information as the ntsp tries
+8:46
+to determine why that door plug blew out
+8:49
+it appears it simply wasn't at all
+8:52
+connected properly to the fuselage
+8:54
+itself at the they weren't there wow it
+8:58
+says that the bolts were there when the
+9:02
+plane arrived at Boeing's Renton
+9:05
+facility in Washington but that there
+9:07
+had been an issue that was flagged there
+9:09
+were damag rivets near the door plug and
+9:13
+in order to fix these rivets the door
+9:15
+plug had to be opened and so it was
+9:17
+opened at Boeing's facility and
+9:20
+somewhere in that process it was put
+9:22
+back together and there were no bolts
+9:25
+put back that seems like a pretty bad
+9:27
+oversight yeah and the NTSB is pretty
+9:30
+careful not to say who exactly did this
+9:33
+they don't say who opened the door plug
+9:36
+or Who removed the bolts but what is
+9:39
+clear is this happened at Boeing's
+9:41
+facility in Renton Washington and that
+9:43
+pins the blame on Boeing even Boeing
+9:46
+itself would say this happened on our
+9:48
+manufacturing floor we are should be
+9:50
+held
+9:53
+accountable so all of this starts to
+9:55
+give us the answer to what happened but
+9:58
+we still don't know
+9:59
+how this happened especially at Boeing a
+10:03
+company that's already been under
+10:05
+scrutiny after the two crashes of its
+10:08
+Max
+10:09
+[Music]
+10:12
+planes we'll be right
+10:15
+[Music]
+FAA and Boeing
+10:20
+back okay so Sydney we now know the what
+10:23
+what happened roughly more or less but
+10:26
+we do not know the answer of how right
+10:29
+this broader mystery how could this have
+10:31
+happened again at Boeing so help us
+10:35
+unpack that well there are still truly
+10:38
+more questions than answers but one of
+10:40
+the things this incident did was raise
+10:42
+more questions about the relationship
+10:45
+between Boeing and its regulator the
+10:47
+Federal Aviation Administration in the
+10:49
+aftermath of two crashes in five months
+10:52
+us lawmakers grilled the Federal
+10:54
+Aviation Administration about its
+10:56
+relationship with Boeing and what we
+10:58
+learned after the crashes in 2018 and
+11:02
+2019 was this relationship was really
+11:05
+complicated a problem with software
+11:07
+caused the planes to repeatedly nose
+11:09
+dive when it was meant to stabilize the
+11:12
+aircraft those crashes were caused by a
+11:14
+flaw in a new software that was supposed
+11:17
+to help stabilize the planes an
+11:18
+independent investigation has found the
+11:20
+FAA itself was not fully aware of a new
+11:24
+system on the plane and the FAA
+11:26
+delegated a high percentage of approvals
+11:29
+allowing Boeing to certify much of its
+11:31
+own work the FAA handed Boeing the
+11:33
+responsibility for determining the
+11:35
+safety of that system and basically
+11:37
+delegated regulatory authority to Boeing
+11:40
+like Fox guarding the hen house type
+11:42
+thing exactly but there is a reason for
+11:45
+this the FAA has limited resources and
+11:49
+they don't have enough people to have
+11:52
+enough inspectors on the ground
+11:54
+themselves and also building an airplane
+11:57
+is really hard and the people who know
+12:00
+how to do it the best and who know how
+12:02
+the plane works the best are the Boeing
+12:05
+engineers and Boeing Employees who build
+12:07
+it but this doesn't change the fact that
+12:10
+there were actually very few FAA
+12:12
+inspectors at Boeing's facility just a
+12:15
+small handful compared to the more than
+12:16
+10,000 employees who worked in Renton so
+12:19
+even before the crashes Boeing Employees
+12:23
+were starting to blow the whistle about
+12:25
+this saying the relationship between
+12:27
+Boeing and the FAA could cause safety
+12:30
+issues I mean this is a really hard
+12:33
+problem right I used to write about the
+12:35
+drug industry and the Food and Drug
+12:37
+Administration and it was the same thing
+12:38
+there you know a small tiny handful of
+12:41
+inspectors for drug companies with
+12:43
+thousands of people very difficult to
+12:47
+actually police the things when you're
+12:49
+the federal government you're
+12:50
+potentially underfunded like the federal
+12:53
+inspectors to some extent are totally
+12:55
+outgunned but there was supposed to be a
+12:59
+whole Reckoning after those earlier
+13:01
+crashes right there were lessons that
+13:04
+had been drawn at that point about the
+13:06
+dangers of this fox guarding the hen
+13:08
+house what happened did anything change
+13:11
+there were some changes after the
+13:13
+crashes in 2018 and 2019 the FAA took
+13:17
+back the authority to determine whether
+13:21
+Boe planes were safe to fly and so now
+13:24
+it's the FAA who determines the
+13:26
+airworthiness of Boeing planes there
+13:28
+were also some other steps that both
+13:31
+Boeing and the FAA took to ensure that
+13:33
+this system where the FAA delegate some
+13:37
+of the Authority for inspections to
+13:39
+Boeing works better and then in the
+13:42
+immediate aftermath of the incident in
+13:44
+January of this year the FAA did start
+13:47
+putting more inspectors at Boeing's
+13:50
+facility in Renton in fact the FAA
+13:53
+administrator said he put 20 additional
+13:56
+inspectors still this is not a huge huge
+13:59
+number of inspectors but you can see how
+14:02
+there would be criticism that the FAA
+14:04
+itself doesn't have enough people over
+14:06
+seeing Boeing as it should okay so
+14:09
+federal inspectors are clearly very
+14:11
+outgunned but in this case you know as
+14:14
+we've said Boeing is really front and
+14:16
+center this incident happened at the
+14:19
+Boeing factory so my question I guess is
+14:22
+the same as I had for the federal
+14:24
+Regulators when it comes to you know
+14:25
+what's different from those past years
+14:28
+what changed at Boeing after those big
+14:30
+crashes well after the crashes in 2018
+14:33
+and 2019 a lot of blame was put on this
+14:36
+cultural shift that occurred at Boeing
+14:38
+in the
+14:39
+1990s when there was a merger between
+14:42
+Boeing and another airplane manufacturer
+14:44
+McDonald Douglas and what a lot of
+14:48
+people will say is the culture at Boeing
+14:50
+shifted from an emphasis on engineering
+14:53
+to an emphasis on profits and
+14:55
+shareholders and this is a criticism
+14:58
+that you'll hear a lot especially from
+15:01
+oldtimers at Boeing or former Boeing
+15:04
+Employees so after the crashes Boeing
+15:07
+did make a handful of changes its whole
+15:10
+leadership changed its CEO was fired and
+15:14
+the company brought on new board members
+15:16
+who had engineering and safety expertise
+15:20
+and that was of course back then right
+15:22
+after those twin crashes in 2018 and
+15:24
+2019 what are they saying now about
+15:27
+those measures
+15:29
+so they're very clearly saying that all
+15:31
+of the changes they implemented after
+15:33
+the crashes were not enough that this
+15:35
+incident on January 5th indicates that
+15:38
+they need to still do a lot more and so
+15:41
+they've done a few things one of the
+15:43
+things they've done is they said they
+15:45
+would make changes to the quality
+15:48
+control processes and that includes at
+15:51
+its own Factory and also at its
+15:53
+suppliers Factory at Spirit Aeros
+15:55
+systems and then one of the biggest
+15:57
+things they did was when they announced
+15:59
+their earnings for the fourth quarter
+16:01
+they suspended their financial guidance
+16:03
+for the year essentially saying this was
+16:06
+not the time to focus on financial
+16:07
+performance it was a time to focus on
+16:10
+safety so a few moves here by Boeing and
+16:12
+a healthy dose of PR it sounds like to
+16:14
+convince its customers you know the
+16:16
+airlines that it's actually focused on
+16:19
+safety and do the customers believe it
+16:22
+so that's still a little unclear Some of
+16:25
+the airline customers have said publicly
+16:27
+that they're sending their own
+16:29
+inspectors to Boeing's facility to
+16:31
+monitor the manufacturing process but at
+16:34
+least one CEO the CEO of United Airlines
+16:37
+has suggested that he might move his
+16:40
+business elsewhere to another plane
+16:43
+maker like Airbus oh wow okay so that
+16:47
+seems quite significant you know that
+16:50
+customers would potentially be voting
+16:51
+with their feet and going to a
+16:53
+competitor is there any chance that this
+16:55
+could actually be existential for Boeing
+16:59
+like that Airlines will really start
+17:01
+giving their business to Boeing's big
+17:03
+competitor I think that's still a really
+17:06
+open question I mean remember Boeing is
+17:09
+an American Juggernaut it's a really
+17:11
+important company for the American
+17:13
+economy and also there are only two real
+17:17
+airplane companies that make these
+17:19
+planes there's Boeing and there's Airbus
+17:22
+and it's a very complicated process to
+17:26
+change how you're going to design your
+17:28
+fleets and to Pivot if you're unhappy
+17:31
+these planes take a while to make and a
+17:33
+while to deliver you know Airbus can't
+17:36
+possibly make all of the planes and
+17:37
+neither can Boeing so I I I don't think
+17:40
+this is going to be an existential
+17:42
+crisis for Boeing at this point but I
+17:44
+think there is mounting frustration
+17:46
+there is the sense of disbelief that you
+17:49
+had 5 years to improve these really
+17:52
+catastrophic crashes happened you vowed
+17:55
+to do better everyone vowed to do better
+17:57
+and yet here we are again
+17:58
+and so I do think Boeing has a lot of
+18:01
+questions it needs to answer and a lot
+18:02
+of reassurance it needs to give
+Should I be worried
+18:05
+[Music]
+18:08
+customers so Sydney I'm going to ask you
+18:10
+the question that probably a lot of our
+18:12
+listeners will have at this point and
+18:14
+that is should I be worried about flying
+18:18
+on one of these planes I think this is a
+18:20
+question that's front and center for a
+18:22
+lot of people right now but the fact is
+18:25
+you have to remember that flying is
+18:27
+incredibly incredibly safe there hasn't
+18:30
+been an fatal accident involving a major
+18:33
+US Airline in more than a decade oh wow
+18:35
+you're actually statistically more
+18:37
+likely to die in a car accident on the
+18:40
+way to the airport than you are on the
+18:43
+plane so it is really really safe to
+18:46
+fly but I think the fact that you're
+18:48
+asking this and others are asking this
+18:51
+really could be a problem for Boeing and
+18:53
+really suggest that Boeing needs to
+18:55
+solve the safety problems it's having
+18:58
+[Music]
+19:03
+Sydney thank you thank you
+19:07
+[Music]
+19:13
+Sabrina we'll be right
+What else you should know
+19:19
+back here's what else you should know
+19:21
+today over the weekend Democrats went on
+19:24
+the defensive to discredit what they
+19:26
+said was a partisan hit on President
+19:28
+Biden by special counsel Robert her this
+19:32
+is a report that went off the rails it's
+19:34
+chabby work product let's Bob Bower the
+19:36
+president's personal lawyer said on CBS
+19:39
+Face the Nation that the report was
+19:41
+substandard and so along with the legal
+19:43
+conclusion Comes This flood of
+19:46
+characterizations factual misation
+19:48
+perjorative comments about the president
+19:51
+that are inconsistent with doj policy
+19:54
+and Norms her's report issued last week
+19:58
+cleared Biden of wrongdoing in his
+20:00
+handling of classified documents but
+20:02
+characterized him as elderly and
+20:05
+forgetful the report put a spotlight on
+20:07
+what was already a primary concern for
+20:10
+voters Biden's age in a New York Times
+20:13
+Sienna College poll this fall More than
+20:16
+70% of battleground State voters agreed
+20:19
+that Biden was too old to Be an
+20:21
+Effective
+20:23
+president and I said you didn't pay your
+20:27
+delinquent you said yes let's say that
+20:30
+happened no I would not protect you in
+20:32
+fact I would encourage them to do
+20:34
+whatever the hell they want you got at a
+20:35
+rally in South Carolina former president
+20:38
+Donald Trump claimed that while he was
+20:40
+in office he told leaders of NATO
+20:43
+countries that he would encourage Russia
+20:45
+to quote do whatever the hell they want
+20:48
+to countries that he deemed to be in AAR
+20:51
+to the alliance got pay you got to pay
+20:53
+your
+20:54
+bills it was an extraordinary claim
+20:57
+suggesting that he would was threatening
+20:58
+to incite an enemy to attack American
+21:01
+Allies and foreshadowed what could be
+21:04
+far-reaching changes in the
+21:06
+international order if he wins the White
+21:08
+[Music]
+21:12
+House today's episode was produced by
+21:14
+cydney Harper Diana win Mary Wilson and
+21:18
+Clare tennis skar it was edited by Lexi
+21:20
+Di and Michael benis contains original
+21:23
+music by Marian Lozano and Pat mccusker
+21:27
+and was engineered by Chris Wood our
+21:29
+theme music is by Jim brunberg and Ben
+21:31
+lansberg of
+21:33
+[Music]
+21:43
+[Music]
+21:45
+wonderly that's it for the daily I'm
+21:47
+Sabrina tavernes see you
+21:53
+[Music]
+21:56
+tomorrow

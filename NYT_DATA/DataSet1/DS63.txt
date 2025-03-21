@@ -1,0 +1,1122 @@
+A.I.’s Original Sin
+
+
+
+0:01
+from New York Times I'm Michael babbaro
+0:04
+this is the
+0:07
+[Music]
+0:11
+daily
+0:13
+today a times investigation shows how as
+0:16
+the country's biggest technology
+0:18
+companies race to build powerful new
+0:21
+artificial intelligence systems they
+0:23
+bent and broke the rules from the
+0:28
+start my colleague Kate Mets on what he
+0:34
+[Music]
+0:41
+[Applause]
+0:45
+uncovered it's Tuesday April
+0:51
+[Music]
+0:55
+16th Kade when we think about all the
+0:58
+artificial intelligence products
+0:59
+released over the past couple of years
+1:01
+including of course these chat Bots
+1:03
+we've talked a lot about on the show we
+1:05
+so frequently talk about their future
+1:08
+their future capabilities their
+1:10
+influence on society jobs our lives but
+1:14
+you recently decided to go back in time
+1:18
+to ai's past to its Origins to
+1:22
+understand the decisions that were made
+1:24
+basically at the birth of this
+1:26
+technology so why did you decide to do
+1:28
+that because if if you're thinking about
+1:30
+the future of these
+1:32
+chatbots that is defined by their past
+1:37
+the thing you have to realize is that
+1:40
+these chatbots learn their skills by
+1:44
+analyzing enormous amounts of Digital
+1:47
+Data so what my colleagues and I wanted
+1:50
+to do with our investigation was really
+1:54
+focus on that effort to gather more data
+1:57
+we wanted to look at the type of data
+2:00
+these companies were collecting how they
+2:03
+were gathering it and how they were
+2:05
+feeding it into their systems and when
+2:08
+you all undertake this line of reporting
+2:11
+what do you end up finding we found that
+2:14
+three major players in this race open AI
+2:18
+Google and
+2:19
+meta as they were locked into this
+2:22
+competition to develop better and better
+2:25
+artificial intelligence they were
+2:27
+willing to do almost anything to get
+2:30
+their hands on this data including
+2:33
+ignoring and in some cases violating
+2:35
+corporate rules and waiting into a legal
+2:39
+gray area as they gathered this data
+2:43
+basically cutting Corners cutting
+2:45
+Corners left and right okay let's start
+2:50
+with open AI the flashiest player of all
+2:53
+the most interesting thing we found is
+2:56
+that in late
+2:58
+2021 as open AI the startup in San
+3:02
+Francisco that built chat GPT as they
+3:05
+were pulling together the fundamental
+3:07
+technology that would power that chatbot
+3:10
+they ran out of data essentially H they
+3:15
+had used just about all the respectable
+3:19
+English language text on the internet to
+3:23
+build this system and just let that sink
+3:26
+in for a bit I mean I'm trying to let
+3:28
+that sink in they basically like a
+3:30
+Pac-Man on a old game just consumed
+3:34
+almost all the English words on the
+3:36
+internet which is kind of unfathomable
+3:39
+Wikipedia articles by the thousands news
+3:43
+articles Reddit threads digital books by
+3:47
+the millions we're talking about
+3:50
+hundreds of billions even trillions of
+3:54
+words wow so by the end of 2021 open aai
+3:59
+had had no more English language text
+4:02
+that they could feed into these systems
+4:05
+but their Ambitions are such that they
+4:07
+wanted even
+4:12
+more so here we should remember that if
+4:15
+you're Gathering up all the English
+4:18
+language text on the internet a large
+4:20
+portion of that is going to be
+4:24
+copyrighted right so if you're one of
+4:26
+these companies Gathering data at that
+4:28
+scale you are absolutely Gathering
+4:33
+copyrighted data as well which suggests
+4:36
+that from the very beginning these
+4:39
+companies a company like open AI with
+4:40
+chat GPT is starting to break bend the
+4:45
+rules yes they are determined to build
+4:49
+this technology thus they are willing to
+4:52
+venture into what is a legal gray area
+4:55
+so given that what does open AI do once
+4:58
+it as you had said runs out of English
+5:01
+language words to mop up and feed into
+5:05
+this system so they get together and
+5:07
+they say all right so what are other
+5:09
+options here and they say well what
+5:12
+about all the audio and video on the
+5:15
+internet we could transcribe all the
+5:18
+audio and video turn it into text and
+5:21
+feed that into their systems interesting
+5:24
+so a small team at openai which included
+5:28
+its president and co-founder under Greg
+5:30
+Brockman built a speech recognition
+5:33
+technology called whisper which could
+5:37
+transcribe audio files into text with
+5:42
+high accuracy H and then they gathered
+5:46
+up all sorts of audio files from across
+5:49
+the internet including audio books
+5:53
+podcasts oi and most importantly YouTube
+5:57
+videos of which there's a seemingly
+6:00
+endless supply right fair to say maybe
+6:03
+tens of millions of videos according to
+6:05
+my reporting we're talking about at
+6:08
+least a million hours of YouTube
+6:11
+videos were scraped off of that video
+6:14
+sharing site fed into this speech
+6:17
+recognition system in order to produce
+6:20
+new text for training open ai's chatbot
+6:25
+and YouTube's terms of service do not
+6:29
+allow a company like open AI to do this
+6:33
+YouTube which is owned by Google
+6:36
+explicitly says you are not allowed to
+6:40
+in Internet parlance scrape videos on
+6:44
+Mass from across YouTube and use those
+6:48
+videos to build a new application that
+6:51
+is exactly what open AI did according to
+6:54
+my reporting employees at the company
+6:57
+knew that it broke YouTube terms of
+7:00
+service but they resolve to do it anyway
+7:04
+so Kate this makes me want to understand
+7:06
+what's going on over at Google which as
+7:09
+we have talked about in the past on the
+7:10
+show is itself thinking about and
+7:14
+developing its own artificial
+7:16
+intelligence model and product well as
+7:19
+open AI scrapes up all these YouTube
+7:22
+videos and starts to use them to build
+7:25
+their chatbot according to my reporting
+7:28
+some employees at Google at the very
+7:30
+least are aware that this is happening
+7:34
+they are yes now when we went to the
+7:36
+company about this a Google spokesman
+7:39
+said it did not know that openai was
+7:42
+scraping YouTube content and said the
+7:44
+company takes legal action over this
+7:46
+kind of thing when there's a clear
+7:48
+reason to do so but according to my
+7:51
+reporting at least some Google employees
+7:54
+turned a blind eye to open AI activities
+7:57
+because Google was all also using
+8:00
+YouTube content to train its AI wow so
+8:05
+if they raise a stink about what open AI
+8:07
+is doing they end up shining a spotlight
+8:10
+on themselves and they don't want to do
+8:14
+that I guess I want to understand what
+8:15
+Google's relationship is to YouTube
+8:17
+because of course Google owns YouTube so
+8:21
+what is it allowed or not allowed to do
+8:23
+when it comes to feeding YouTube data
+8:25
+into Google's AI models it's an
+8:28
+important distinction
+8:30
+because Google owns
+8:33
+YouTube it defines what can be done with
+8:37
+that data and Google argues that it has
+8:41
+a right to that data that its terms of
+8:43
+service allow it to use that data
+8:47
+however because of that copyright issue
+8:50
+because the copyright to those videos
+8:52
+belong to you and I lawyers who I've
+8:55
+spoken to say people could take Google
+8:58
+to court
+9:00
+and try to determine whether or not
+9:02
+those terms of service really allow
+9:05
+Google to do this there's another legal
+9:08
+gray area here where although Google
+9:11
+argues that it's okay Others May argue
+9:14
+it's not of course what makes this all
+9:16
+so interesting is you essentially have
+9:18
+one tech company Google keeping another
+9:21
+tech company open AI dirty little secret
+9:25
+about basically stealing from
+9:26
+YouTube because it doesn't want people
+9:30
+to know that it too is taking from
+9:32
+YouTube and so these companies are
+9:35
+essentially enabling each other as they
+9:39
+simultaneously seem to be bending or
+9:41
+breaking the
+9:42
+rules what this shows is that there is
+9:45
+this belief and it has been there for
+9:47
+years Within These companies among their
+9:50
+researchers that they have a right to
+9:53
+this data because they're on a larger
+9:56
+mission to build a technology that they
+9:59
+believe will transform the world and if
+10:01
+you really want to understand this
+10:04
+attitude you can look at our reporting
+10:08
+from inside meta and so what does meta
+10:11
+end up doing according to your reporting
+10:15
+well like Google and other
+10:17
+companies meta had to scramble to build
+10:21
+artificial intelligence that could
+10:23
+compete with open
+10:24
+AI Mark Zuckerberg is calling engineers
+10:29
+and Executives at all hours pushing them
+10:33
+to acquire this data that is needed to
+10:36
+improve the
+10:38
+chatbot and at one point my colleagues
+10:41
+and I got hold of recordings of these
+10:44
+meta Executives and Engineers discussing
+10:48
+this problem how they could get their
+10:50
+hands on more data where they should try
+10:53
+to find it and they explored all sorts
+10:55
+of options they talked about license ing
+10:59
+books one by one at $10 a pop and
+11:03
+feeding those into the model they even
+11:05
+discussed acquiring the book publishers
+11:08
+Simon and Schuster and feeding its
+11:10
+entire Library into their AI model But
+11:14
+ultimately they decided all that was
+11:15
+just too cumbersome too time
+11:19
+consuming and on the recordings of these
+11:22
+meetings you can hear
+11:25
+Executives talk about how they were
+11:28
+willing to run off shod over copyright
+11:31
+law and ignore the legal concerns and go
+11:34
+ahead and scrape the internet and feed
+11:37
+this stuff into their models they
+11:39
+acknowledged that they might be sued
+11:41
+over this but they talked about how open
+11:44
+AI had done this before them that they
+11:46
+meta were just following what they saw
+11:49
+as a market precedent interesting so
+11:52
+they go from having conversations like
+11:54
+should we buy a publisher that has tons
+11:57
+of copyrighted material suggesting that
+11:59
+they're very conscious of the kind of
+12:02
+legal terrain and what's right and
+12:03
+what's wrong and instead say nah let's
+12:06
+just follow the open AI model that
+12:09
+blueprint and just do what we want to do
+12:13
+do what we think we have a right to do
+12:15
+which is to kind of just gobble up all
+12:16
+this material across the Internet it's a
+12:19
+snapshot of that Silicon Valley attitude
+12:23
+that we talked about because they
+12:26
+believe they are building this transform
+12:29
+formative
+12:30
+technology because they are in this
+12:34
+intensely competitive situation where
+12:37
+money and power is at stake they are
+12:41
+willing to go there but what that means
+12:44
+is that there is at the birth of this
+12:47
+technology a kind of original sin that
+12:51
+can't really be
+12:53
+erased it can't be erased and people are
+12:57
+beginning to notice
+12:59
+and they are beginning to sue these
+13:02
+companies over
+13:03
+it these companies have to have this
+13:07
+copyrighted data to build their systems
+13:10
+it is fundamental to their creation if a
+13:14
+lawsuit bars them from using that
+13:17
+copyrighted data that could bring down
+13:20
+this technology
+13:33
+we'll be right
+13:36
+back so Kade walk us through these
+13:39
+lawsuits that are being filed against
+13:41
+these AI companies based on the
+13:43
+decisions they made early on to use
+13:45
+technology as they did and the chances
+13:48
+that it could result in these companies
+13:50
+not being able to get the data they so
+13:52
+desperately say they need these suits
+13:55
+are coming from a wide range of places
+13:59
+they're coming from computer programmers
+14:02
+who are concerned that their computer
+14:04
+programs have been fed into these
+14:06
+systems they're coming from book authors
+14:09
+who have seen their books being used
+14:12
+they're coming from publishing companies
+14:15
+they're coming from news
+14:17
+corporations like the New York Times
+14:20
+incidentally which has filed a lawsuit
+14:22
+against open Ai and Microsoft MH news
+14:25
+organizations that are concerned over
+14:28
+their news article being used to build
+14:30
+these systems and here I think it's
+14:33
+important to say as a matter of
+14:34
+transparency Kade that your reporting is
+14:39
+separate from that lawsuit that lawsuit
+14:43
+was filed by the business side of the
+14:45
+New York Times by people who are not
+14:48
+involved in your reporting or in this
+14:51
+daily episode just to get that out of
+14:53
+the way exactly I'm assuming that you
+14:56
+have spoken too many lawyers about this
+14:58
+and I wonder if there's some insight
+15:00
+that you can shed on the basic legal
+15:04
+terrain I mean do the companies seem to
+15:07
+have a strong case that they have a
+15:09
+right to this information or do
+15:10
+companies like the times who are suing
+15:12
+them seem to have a pretty strong case
+15:14
+that know that decision violates their
+15:18
+copyrighted materials like so many legal
+15:21
+questions this is incredibly complicated
+15:23
+it comes down to what's called fair use
+15:28
+which is a part of copyright law that
+15:31
+determines whether companies can use
+15:34
+copyrighted data to build new things and
+15:38
+there are many factors that go into this
+15:40
+there are good arguments on the open AI
+15:43
+side there are good arguments on the New
+15:45
+York Times side copyright law says that
+15:50
+you can't take my work and reproduce it
+15:54
+and sell it to someone that's not
+15:56
+allowed but what's called fair use does
+16:01
+allow companies and individuals to use
+16:04
+copyrighted Works in part they can take
+16:07
+Snippets of it they can take the
+16:10
+copyrighted works and transform it into
+16:13
+something
+16:15
+new that is what open Ai and others are
+16:18
+arguing they're doing but there are
+16:21
+other things to consider does that
+16:25
+transformative work compete with the
+16:28
+individuals and companies that suppli
+16:31
+the data that own the copyrights
+16:34
+interesting and here the suit between
+16:37
+the New York Times company and open AI
+16:40
+is
+16:41
+illustrative if the New York Times
+16:45
+creates articles that are then used to
+16:48
+build a chatbot does that chatbot end up
+16:53
+competing with the New York Times do
+16:55
+people end up going to that chatbot for
+16:59
+their information rather than going to
+17:01
+the times website and actually reading
+17:04
+the article that is one of the questions
+17:08
+that will end up deciding this case and
+17:11
+cases like it so what would it mean for
+17:14
+these AI companies for some or even all
+17:18
+of these lawsuits to
+17:21
+succeed well if these tech companies are
+17:25
+required to license the copyrighted data
+17:29
+that goes into their systems if they're
+17:30
+required to pay for
+17:32
+it that becomes a problem for these
+17:36
+companies we're talking about Digital
+17:40
+Data the size of the entire
+17:43
+internet licensing all that copyrighted
+17:47
+data is not necessarily feasible we
+17:51
+quote The Venture Capital firm and dreon
+17:54
+harowitz in our story where one of their
+17:58
+lawyer says that it does not work for
+18:03
+these companies to license that data
+18:05
+it's too expensive it's on too large a
+18:09
+scale H it would essentially make this
+18:12
+technology economically impractical
+18:15
+exactly so a jury or a judge or a law
+18:17
+ruling against open AI could
+18:19
+fundamentally change the way this
+18:21
+technology is built the extreme case is
+18:25
+these companies are no longer allowed to
+18:27
+use copyrighted material in building
+18:30
+these chat Bots and that means they have
+18:32
+to start from scratch they have to
+18:35
+rebuild everything they've built so this
+18:38
+is something that not only imperils what
+18:43
+they have today it imperils what they
+18:45
+want to build in the future and
+18:48
+conversely what happens if the courts
+18:50
+rule in favor of these companies and say
+18:53
+you know what this is fair use you were
+18:56
+fine to have scraped this material and
+18:59
+to keep borrowing this material into the
+19:01
+future free of charge well one
+19:04
+significant roadblock drops for these
+19:08
+companies and they can continue to
+19:11
+gather up all that extra data including
+19:13
+images and sounds and videos and build
+19:17
+increasingly powerful
+19:20
+systems but the thing is even if they
+19:23
+can access as much copyrighted material
+19:26
+as they want these companies May may
+19:29
+still run into a problem pretty soon
+19:32
+they're going to run out of digital data
+19:35
+on the internet that human created data
+19:38
+they rely on is going to dry up they're
+19:43
+using up this data faster than humans
+19:46
+create it one research organization
+19:49
+estimates that by 2026 these companies
+19:52
+will run out of viable data on the
+19:56
+internet wow well in that case what
+19:59
+would these tech companies do I mean
+20:01
+where they going to go if they've
+20:03
+already scraped YouTube if they've
+20:05
+already scraped podcast if they've
+20:07
+already gobbled up the internet and that
+20:10
+altogether is not
+20:13
+sufficient what many people inside these
+20:16
+companies will tell you including Sam
+20:18
+Alman the chief executive of open AI
+20:21
+they'll tell you that what they will
+20:24
+turn to is what's called synthetic data
+20:29
+and what is that that is data
+20:34
+generated by an AI model that is then
+20:38
+used to build a better AI model it's AI
+20:43
+helping to build better AI that is the
+20:47
+vision ultimately they have for the
+20:49
+future that they won't need all this
+20:52
+human generated text they'll just have
+20:55
+the AI build a text that will feed
+20:58
+future versions of
+21:02
+AI so they will feed the AI systems the
+21:07
+material that the AI systems themselves
+21:10
+create but is that really a workable
+21:15
+solid plan is that considered high
+21:17
+quality data is that good
+21:21
+enough if you do this on a large scale
+21:23
+you quickly run into problems as we all
+21:26
+know as we've discussed on this podast
+21:29
+these systems make mistakes they
+21:32
+hallucinate they make stuff up they show
+21:36
+biases that they've learned from
+21:38
+internet data and if you start using the
+21:42
+data generated by the AI to build new AI
+21:46
+those mistakes start to reinforce
+21:49
+themselves right the systems start to
+21:51
+get trapped in these cue saacs where
+21:56
+they end up not getting better but
+21:59
+getting worse what you're really saying
+22:01
+is these AI machines need the unique
+22:05
+Perfection of the human creative mind
+22:09
+well as it stands today that is
+22:11
+absolutely the case but these companies
+22:14
+have grand Visions for where this will
+22:16
+go and they feel and they're already
+22:18
+starting to experiment with this that if
+22:21
+you have an AI system that is
+22:23
+sufficiently
+22:25
+powerful if you make a copy of it if you
+22:28
+have have two of these AI models one can
+22:31
+produce new data and the other one can
+22:34
+judge that data it can curate that data
+22:37
+as a human would it can provide the
+22:39
+human judgment so to speak so as one
+22:42
+model produces the data the other one
+22:45
+can judge it discard the bad data and
+22:48
+keep the good data and that's how they
+22:51
+ultimately see these systems creating
+22:54
+viable synthetic data but that has not
+22:59
+happened yet and it's unclear whether it
+23:03
+will work it feels like the real lesson
+23:06
+of your investigation is that if you
+23:09
+have to allegedly steal data to feed
+23:11
+your AI model and make it economically
+23:14
+feasible then maybe you have a pretty
+23:16
+broken model and that if you need to
+23:18
+create fake data as a result which as
+23:22
+you just said kind of undermines ai's
+23:24
+goal of mimicking human thinking and
+23:27
+language then maybe you really have a
+23:30
+broken model and so that makes me wonder
+23:32
+if the folks you talk to the companies
+23:34
+that we're focused on here ever ask
+23:37
+themselves the question could we do this
+23:39
+differently could we create an AI model
+23:41
+that just needs a lot less
+23:44
+data they have thought about other
+23:47
+models for
+23:49
+decades the thing to realize here is
+23:51
+that is much easier said than done we're
+23:54
+talking about creating systems that can
+23:57
+mimic the human
+23:59
+brain that is an
+24:01
+incredibly ambitious task and after
+24:05
+struggling with that for decades these
+24:09
+companies have finally stumbled on
+24:11
+something that they feel works that is a
+24:14
+path to that incredibly ambitious goal
+24:18
+and they're going to continue to push in
+24:21
+that direction yes they're exploring
+24:23
+other options but those other options
+24:24
+aren't
+24:26
+working what works is more data and more
+24:30
+data and more data and because they see
+24:34
+a path there they're going to continue
+24:36
+down that path and if there are
+24:39
+roadblocks there and they think they can
+24:42
+knock them down they're going to knock
+24:43
+them down but what if the tech companies
+24:46
+never get enough or make enough data to
+24:49
+get where they think they want to go
+24:50
+even as they're knocking down walls
+24:52
+along the way that does seem like a real
+24:54
+possibility if these companies can't get
+24:57
+their hands on more data then these
+24:59
+Technologies as they're built today stop
+25:04
+improving we will see their limitations
+25:07
+we will see how difficult it really is
+25:10
+to build a system that can match let
+25:13
+alone surpass the human
+25:18
+brain these companies will be forced to
+25:21
+look for other options technically and
+25:24
+we will see the limitations of these
+25:27
+grandiose visions that they have for the
+25:30
+future of artificial
+25:33
+[Music]
+25:37
+intelligence okay thank you very much we
+25:40
+appreciate it glad to be
+25:43
+[Music]
+25:50
+here we'll be right back
+25:58
+here's what else you need to know today
+26:02
+Israeli leaders spent Monday debating
+26:05
+whether and how to retaliate against
+26:08
+Iran's missile and drone attack over the
+26:10
+weekend hery halevi Israel's military
+26:13
+Chief of Staff declared that the attack
+26:16
+will be responded to in Washington a
+26:20
+spokesman for the US state department
+26:22
+Matthew Miller reiterated American calls
+26:25
+for Restraint of course we to make clear
+26:28
+to everyone that we talk to that we want
+26:31
+to see de deescalation that we don't
+26:33
+want to see a wider Regional War that's
+26:35
+something that's been but emphasized
+26:37
+that a final call about retaliation was
+26:40
+up to Israel Israel is a sovereign
+26:42
+country they have to make their own
+26:44
+decisions about how best to defend
+26:46
+themselves what we always try to and the
+26:49
+first criminal trial of a former US
+26:51
+president officially got underway on
+26:54
+Monday in a Manhattan courtroom Donald
+26:57
+Trump on trial for allegedly falsifying
+27:00
+documents to cover up a sex scandal
+27:02
+involving a porn star watched as jury
+27:06
+selection began the initial pool of 96
+27:10
+jurors quickly dwindled more than half
+27:13
+of them were dismissed after indicating
+27:16
+that they did not believe that they
+27:17
+could be impartial the day ended without
+27:21
+a single juror being
+27:25
+chosen today's episode was produced by
+27:28
+Stella tan Michael Simon Johnson muj
+27:31
+Zade and Ricky nety it was edited by
+27:34
+Mark George and Liz o Balin contains
+27:38
+original music by Diane Wong Dan Powell
+27:41
+and Pat mccusker and was engineered by
+27:44
+Chris Wood our theme music is by Jim
+27:47
+brunberg and Ben lek of
+27:53
+wonderly that's it for the daily I'm
+27:56
+Michael baboro
+27:58
+see you tomorrow
+28:01
+[Music]

@@ -1,0 +1,1231 @@
+An Engineering Experiment to Cool the Earth
+
+
+
+0:00
+from The New York Times I'm Katherine
+0:02
+benold this is the
+0:05
+[Music]
+0:08
+daily after failing for decades to cut
+0:11
+carbon emissions enough to stop the
+0:13
+planet from dangerously overheating
+0:16
+scientists are increasingly looking at
+0:18
+backup measures some that would fight
+0:21
+the warming by intervening in the
+0:23
+climate itself today my colleague
+0:26
+Christopher Fel on the efforts to
+0:29
+engineer are a way out of the climate
+0:34
+[Music]
+0:35
+[Applause]
+0:37
+[Music]
+0:40
+crisis it's Friday April
+0:44
+[Music]
+0:49
+5th so Chris you've been covering
+Climate change
+0:52
+climate change for a while but recently
+0:55
+you've been focused on a very special
+0:56
+project tell us about this yeah two
+0:59
+things have been happening in climate
+1:01
+change recently that are really
+1:02
+important number one records have been
+1:05
+falling at alarming rates last year was
+1:08
+again the hottest year on record much
+1:11
+the world surpassed this sort of
+1:14
+important threshold of 1.5 degrees C
+1:16
+above pre-industrial levels so the world
+1:20
+is getting warmer at an alarming rate at
+1:23
+the same time emissions aren't falling
+1:25
+right the sort of the message of the
+1:27
+last generation has been we need need to
+1:30
+cut emissions really to almost zero by
+1:34
+the end of the century and in fact the
+1:37
+reverse is happening emissions are
+1:39
+continuing to rise at the same time the
+1:42
+number and characteristics of weather
+1:45
+disasters have become really alarming so
+1:48
+the effects of that warming have become
+1:51
+really clear and it's clear that the
+1:52
+world is struggling to adapt to those
+1:56
+effects so the other thing that's
+1:57
+happening is sort of a high level
+2:00
+is there's more research and more
+2:02
+consideration of okay what if we can't
+2:04
+cut emissions fast enough what if we're
+2:07
+going to have this really severe degree
+2:10
+of warming can we do something else
+2:12
+maybe temporarily to sort of buffer
+2:15
+those effects and that's led to this
+2:18
+question of What kinds of changes can we
+2:21
+make deliberately to the atmosphere to
+2:24
+the environment that will maybe produce
+2:26
+some sort of artificial Cooling in the
+2:29
+meantime
+2:32
+so earlier this week I was able to watch
+2:34
+as scientists did the first outdoor
+2:37
+tests in the US on a technology that
+2:41
+will aim to do just that it's called
+2:44
+Marine Cloud
+2:48
+brightening so what is this idea of
+Cloud brightening
+2:50
+brightening the clouds where did it
+2:52
+originally come from so everyone I
+2:55
+talked to pointed back to one really
+2:58
+important moment in 1990 when a British
+3:02
+physicist named John leam was taking a
+3:05
+hike in Wales with his young son and
+3:09
+they were looking out at the clouds over
+3:11
+the Irish sea and as Dr leam later told
+3:15
+it his son asked him hey why are clouds
+3:18
+bright and Dam said well because they
+3:22
+reflect Sun back in the sky and his son
+3:24
+said so they're like soggy mirrors and
+3:27
+Dr leam went on to write a letter in
+3:30
+1990 that was published in the journal
+3:32
+Nature saying you know what if we can
+3:36
+deliberately manipulate these clouds
+3:39
+maybe we can make them more reflective
+3:42
+and actually counteract the effects of
+3:46
+global warming that was sort of the
+3:48
+Inception point for this idea and it led
+3:51
+to Decades of research culminating in
+3:53
+this week's test so the idea is if you
+3:57
+can make clouds more reflective you can
+4:00
+reflect more of the sun's heat back into
+4:02
+space so it won't get trapped in the
+4:05
+Earth's atmosphere in the first place
+4:07
+exactly that's what they're trying to
+4:11
+do that's a very simple and at the same
+USS Hornet
+4:13
+time a very powerful idea I I love
+4:16
+actually that they were hiking in Wales
+4:17
+um that's where I am right now and we
+4:20
+sure have a lot of clouds here rain
+4:22
+clouds but tell me more about what you
+4:25
+saw at the testing side so this Tuesday
+4:30
+a little after 7 in the morning I pulled
+4:33
+up in a parking lot on a dock at the
+4:36
+edge of alam I'm standing at the gang
+4:40
+plank to the USS Hornet a decommissioned
+4:44
+aircraft carrier in San Francisco Bay
+4:48
+I'm here for the first test in the US of
+4:54
+a machine that was designed to try to
+4:57
+brighten clouds a way of
+5:00
+maybe temporarily cooling the Earth and
+5:04
+I made my way up one of the massive gang
+5:10
+planks and came in to find a cluster of
+5:14
+some of the top atmospheric scientists
+5:17
+in the world chis Sarah how do you
+5:20
+do how are you looking really excited
+5:24
+and they accompanied me out to the
+5:27
+flight deck here we are of this aircraft
+5:32
+carrier oh man pretty epic it is pretty
+5:36
+great which was a bit like a party
+5:38
+they'd set up you know a little table on
+5:40
+the side with some coffee and some
+5:41
+sandwiches and people were chatting and
+5:44
+saying hi to each other and I asked them
+5:46
+why they were excited so I know a
+5:50
+thousandth of what you know and I still
+5:52
+find this exciting are you guys like
+5:53
+walk me through is this like a big day
+5:55
+for you or just like one more test no
+5:57
+this is a big day for me and they said
+6:00
+this is actually a huge day in their
+6:04
+research just looking at it going yeah
+6:05
+this is culmination of years of work
+6:07
+right yeah not wow and tell me about
+6:11
+what exactly they were so excited about
+6:13
+and what they were doing on the ship
+6:15
+yeah the thing everyone was excited
+6:17
+about was this machine set up at the far
+6:21
+end of the flight deck of this aircraft
+6:24
+carrier it's blue it's shiny it looks a
+6:27
+bit like a snowmaker or maybe like a
+6:29
+spot lights this machine is a sprayer
+6:32
+what it does is it sprays really really
+6:36
+really small aerosol particles in this
+6:40
+case smashed up sea salt a long distance
+6:43
+at just the right size and just the
+6:46
+right volume because in theory at some
+6:49
+point you could use this machine to
+6:51
+change the size and number of the
+6:54
+droplets in the clouds you can make them
+6:56
+brighter conceptually it's possible the
+6:58
+question is
+7:00
+technologically can we do it yeah the
+7:02
+particles are coming out and super
+7:03
+concentrated there right so whatever's
+7:06
+coming out of that Circle there is
+7:08
+basically going to be huge by the time
+7:11
+it you know gets to the cloud okay so
+7:13
+and so the goal with this test was they
+7:15
+spent years building this sprayer that
+7:18
+can use really high pressured air to
+7:20
+sort of Smash salt particles into super
+7:24
+small bits about 1700 the size of a
+7:28
+human hair wow what they didn't know
+7:31
+until this week and they're trying to
+7:32
+find out right now once you spray it do
+7:35
+those aerosols that are so finely tuned
+7:37
+stay that size in theory they should
+7:41
+what they don't know is things like wind
+7:44
+and humidity and temperature could
+7:46
+potentially cause them to coagulate to
+7:48
+regroup which would throw the whole
+7:50
+thing off if the aerosols you're
+7:52
+shooting into clouds are too big you can
+7:54
+backfire the whole purpose you can wreck
+7:56
+what you're trying to do because you
+7:57
+make clouds less reflective not more
+8:00
+reflective so the whole goal this
+8:01
+experiment is okay can they make the
+8:04
+spray just so so that even in outdoor
+8:07
+conditions the aerosols that are so
+8:10
+finally sized Remain the size you want
+8:13
+them to be and that's what they're
+8:14
+trying to find out and you watched the
+8:17
+actual test of this what did you see
+8:19
+what happened those instruments are
+8:22
+emitting a slate
+8:24
+hum so operating the sprayer is not
+8:28
+straightforward
+8:31
+and they are filling the tanks with the
+8:33
+salt water that be used to produce the
+8:37
+Mist there was somebody crouched on the
+8:41
+control deck the panel of instruments
+8:44
+the at the side of the sprayer so I I
+8:46
+went over and tried to sit next to him
+8:49
+and watch him as he turned a series of
+8:51
+knobs in careful sequence okay yeah
+8:54
+everybody we're going to we're going to
+8:55
+run some air so the M we need 2 minutes
+8:59
+here just to have power on the and after
+9:04
+a series of tests to make sure the
+9:05
+valves were clear okay your protection
+9:08
+please finally the moment
+9:12
+came and he got an all clear over his
+9:15
+walki talkie and he turned on the
+9:19
+water water on copy over and the
+9:24
+[Applause]
+9:27
+air since the sound of the compressor
+9:30
+it pushes pressurized air through the
+9:33
+sprayer it's making a sort of a dull
+9:35
+throbbing sensation you can feel it a
+9:37
+little bit through the deck of the
+9:40
+ship we all had ear protectors and even
+9:43
+with the ear protectors it was really
+9:44
+loud and then you could almost feel this
+9:48
+spray bursting out of this machine and
+9:51
+watch it travel really hundreds of feet
+9:54
+down the deck of the aircraft
+9:57
+carrier okay water off and off good
+10:02
+job awesome guys you're done thank you
+10:06
+excellent first test is
+10:10
+done my first signal that things had
+10:12
+gone well was I looked up when the spray
+10:14
+machine was turned off and saw some
+10:16
+scientists high-fiving down the
+10:18
+deck what' you
+10:20
+think it's
+10:22
+beautiful is it what you thought it
+10:24
+would be it's
+10:27
+better and
+10:30
+I'm optimistic that it will tell us a
+10:32
+lot
+10:33
+about what these things
+10:36
+do this is made me really
+10:39
+optimistic and the idea is to
+10:43
+dos and everyone seemed really excited
+10:46
+that this thing they' worked on for
+10:48
+years was finally happening in this
+10:52
+really important outdoor test okay so it
+10:55
+sounds like this test was a success
+10:57
+right yeah they stress that they need a
+10:59
+lot of time to really go over the
+11:02
+results they'll be doing this test again
+11:04
+and again in different weather
+11:05
+conditions but the initial reaction
+11:08
+seemed positive they seemed to think
+11:10
+that the numbers they were getting were
+11:11
+what they were hoping to see and so now
+11:13
+the goal is can they maintain the right
+11:16
+siiz aerosols even in different
+11:18
+conditions down the deck of this
+11:20
+aircraft carrier that'll give them some
+11:22
+confidence that if they decided one day
+11:24
+to try and do this on the open ocean to
+11:26
+actually brighten clouds they'd have the
+11:28
+ability to do
+When to use it
+11:30
+so Chris if all of this works how and
+11:33
+when do these researchers anticipate
+11:36
+that this would actually be
+11:38
+used well here's a great example in the
+11:40
+month of February a version of this
+11:43
+testing was also happening in Australia
+11:45
+off the coast of Australia where
+11:47
+researchers were testing whether Marine
+11:49
+Cloud brightening could be used to cool
+11:52
+the ocean just a little bit around the
+11:54
+Great Barrier Reef really high ocean
+11:56
+temperatures are causing bleaching of
+11:58
+that Coral Reef the idea was could they
+12:01
+use Marine Cloud brightening to save
+12:04
+some of those reefs from dying and
+12:06
+that's probably a good idea of the sort
+12:08
+of Fairly localized situation where you
+12:12
+could in theory if you do it right have
+12:14
+a fairly quick degree of cooling that
+12:18
+could maybe try to avert or mitigate
+12:21
+something pretty acute like a heat wave
+12:24
+or or a stretch of warm weather that
+12:25
+would kill Coral but the science is
+12:27
+probably too knew at this point to sort
+12:31
+of talk about the right
+12:33
+situations to use it those conversations
+12:36
+are all down the road as researchers
+12:38
+look at these and other ideas for what
+12:41
+they could do if things get really
+12:49
+[Music]
+12:52
+bad we'll be right
+12:54
+[Music]
+12:58
+back
+13:00
+[Music]
+Solutions
+13:13
+so Chris when I think about solutions to
+13:15
+climate change you know it usually
+13:17
+involves these very hard things we need
+13:19
+to do like you know change the way we
+13:20
+live the way we drive what we eat we
+13:23
+need these International treaties we
+13:25
+need carbon taxes regulation there's
+13:27
+lots of hard stuff and we haven't gotten
+13:29
+that far but here you've just told me
+13:31
+about this technology that if it ends up
+13:34
+working could actually help cool the
+13:36
+planet without anyone needing to do any
+13:39
+of these hard things it sounds
+13:42
+great it does sound great now we got to
+13:45
+say first of all that whenever anybody
+13:48
+working on this stuff talks about it the
+13:49
+first thing they say is this is not an
+13:52
+alternative to reducing emissions this
+13:54
+is looking for ways to buy time as we
+13:59
+try to cut emissions there's no way to
+14:02
+really deal with climate change that
+14:04
+doesn't entail burning less fossil fuel
+14:07
+and quickly but yes in addition to
+14:10
+brightening clouds there's other ways of
+14:12
+try to bounce more sunlight back into
+14:15
+space and other ideas my colleague David
+14:18
+gallis wrote the first piece in our
+14:21
+series looking the idea of removing
+14:23
+carbon dioxide directly from the air
+14:26
+sort of reversing our past emissions
+14:29
+other ideas include finding ways to suck
+14:33
+up more of the CO2 in the oceans there
+14:37
+even ideas that my colleague car Buckley
+14:40
+covered of could we build a sort of a
+14:42
+giant parasol way out in space that
+14:45
+would reflect or scatter more of the
+14:48
+sunlight and prevent some of that
+14:49
+sunlight from even reaching the Earth in
+14:52
+the first place wow so there's there's a
+14:54
+huge number of ideas that until very
+14:57
+recently seemed just so bizarre and or
+15:00
+so expensive and or so dangerous that
+15:04
+they were hardly worth pursuing
+15:06
+seriously and what's changed really
+15:08
+quickly in the last really year or two
+15:11
+is all of a sudden those ideas have
+15:13
+switched from being too wild to spend
+15:17
+much time on to being so important
+15:21
+because situation is so dire that we
+15:23
+can't not look at them and that's the
+15:26
+pivot that my team has has been trying
+15:29
+to cover and what characterizes all
+Geoengineering
+15:32
+these initiatives is that rather than
+15:34
+reducing our own emissions we're now
+15:36
+trying to intervene in the climate in a
+15:39
+proactive way engineering the climate in
+15:42
+a way yes and you hear the phrase
+15:45
+geoengineering to describe these ideas
+15:48
+sort of collectively and what people who
+15:50
+research this will stress is we're
+15:52
+already geoengineering right for more
+15:55
+than a century we've been geoengineering
+15:58
+in the sense of
+15:59
+putting climate changing pollution into
+16:03
+the atmosphere that's caused the planet
+16:05
+to change by trapping more heat in the
+16:07
+atmosphere so the question is do we want
+16:10
+to deliberately geoengineer in a way
+16:13
+that will ease that pressure rather than
+16:16
+just making it worse of course there's
+16:19
+some controversy attached to this and
+16:22
+there there are some pretty valid
+16:25
+concerns about what the consequences
+16:28
+might be if we keep on pursuing these
+16:30
+ideas and why are they controversial
+16:34
+well the first concern that you hear is
+16:36
+this idea of moral hazard that if people
+16:39
+come to think that there are ways of
+16:41
+addressing climate change that don't
+16:43
+require them to change their lifestyle
+16:46
+or sacrifice conveniences or change the
+16:49
+kinds of cars they drive or how their
+16:51
+their powers generated that they will
+16:53
+lose interest in those tough changes and
+16:57
+the sort of momentum such as it is
+17:00
+towards cutting emissions will fade even
+17:03
+more but we don't know yet whether
+17:06
+politicians or governments or companies
+17:08
+or just people will sort of misuse these
+17:11
+ideas to try to Sherk the harder work of
+17:17
+reducing the amount of greenhouse gases
+17:20
+we emit another really important
+17:22
+argument you hear is okay side effects
+17:25
+do we really know what would happen if
+17:29
+we try these things Marine Cloud
+17:30
+brightening is one of those situations
+17:33
+where there are known unknowns and
+17:36
+unknown unknowns as they say the known
+17:39
+unknowns are well what would happen to
+17:41
+things like ocean circulation what would
+17:43
+happen to precipitation what would
+17:45
+happen to the effect on the amount of
+17:48
+energy reaching the ocean what would
+17:50
+happen to the Fisheries industry we
+17:53
+don't really know and research are
+17:55
+trying to find out what those effects
+17:58
+might be then there are the unknown
+18:00
+unknowns if you start deliberately
+18:02
+changing the cloud system well what else
+18:06
+might happen that we haven't anticipated
+18:08
+do you move the location of where
+18:11
+rainfall happens do you perhaps upset
+18:13
+the monsoon cycle in India do you change
+18:16
+the ability to grow food in parts of the
+18:18
+world so if you do this at a bigger
+18:20
+scale the consequences of those
+18:23
+potential side effects get more and more
+18:25
+severe and I talked to environmentalists
+18:28
+who said that's a real concern you just
+18:30
+can't model those risks and you sort of
+18:33
+to a degree by pursuing this have to
+18:36
+accept that that risk is real and almost
+18:39
+roll the dice and I guess much like
+Unintended Consequences
+18:41
+climate change where you have a group of
+18:43
+countries that is most responsible for
+18:47
+CO2 emissions that have caused the
+18:48
+global warming and then a whole other
+18:50
+group of countries that are probably
+18:51
+suffering the worst consequences even
+18:53
+though they haven't contributed to those
+18:55
+emissions nearly as much you might see a
+18:58
+situation where this kind of
+19:00
+interference with the climate at the
+19:02
+initiative of some countries presumably
+19:04
+the wealthy countries that have that
+19:05
+technology would then have unintended
+19:07
+consequences in countries that have no
+19:09
+control over this so that's tricky
+19:13
+that's right and that takes us to sort
+19:14
+of a third category of concerns which is
+19:17
+okay let's assume that things are bad
+19:19
+enough that collectively societies won't
+19:22
+take those risks of those side effects
+19:25
+well then who chooses like who decides
+19:28
+when we get that point is there even a
+19:30
+mechanism that would allow you to get
+19:32
+sort of informed consent from everybody
+19:34
+who'd be affected and if these would
+19:36
+affect everybody it's hard to imagine
+19:39
+how you would build a governance
+19:41
+mechanism that would allow you to say
+19:43
+before we push the button are we sure
+19:46
+everybody's okay with this the only
+19:48
+counter to all of these concerns is
+19:51
+compared to what right and this is the
+19:53
+point that researchers make okay this is
+19:55
+dangerous okay it presents challenges
+19:57
+but compared to what their point is
+19:59
+don't compare it to a situation where
+20:02
+everything's fine compare it to a
+20:03
+situation where we're actually in where
+20:06
+the trajectory of global warming is so
+20:09
+serious and isn't looking like it'll get
+20:12
+better anytime soon well compared to
+20:14
+those risks how do these risks compare
+20:17
+right and the question is would you
+20:19
+rather have a world of basically
+20:21
+uncontrolled warming and we have an idea
+20:24
+of what that brings wildfires and
+20:26
+drought and sea level rise and Stor
+20:28
+forms and diseases is that better than
+20:31
+some of these more perhaps controlled
+20:34
+risks associated with deliberately
+20:36
+tinkering with the environment so it's
+20:39
+almost like pick your poison what sort
+20:41
+of threats do you want to embrace and
+20:44
+that's the overwhelming dilemma that we
+20:46
+face with this
+Overwhelming Dilemma
+20:48
+technology in a way what it makes me
+20:50
+think is that these crazy initiatives
+20:53
+that we've been hearing about from you
+20:54
+are yes they're Testament to our failure
+20:57
+in a way to combat CL climate change so
+20:59
+far because you know there's such a last
+21:01
+resort really such a sort of an act of
+21:03
+desperation but at the same time it
+21:05
+seems like this urgency has actually
+21:07
+Unleashed a lot of energy and money to
+21:11
+tackle the problem yeah and and there's
+21:14
+good news in this the good news is the
+21:15
+research we're talking about
+21:17
+demonstrates the really amazing capacity
+21:20
+of scientists to come up with new ideas
+21:23
+develop new technologies test them
+21:25
+quickly and at least build some options
+21:28
+right so like there's any if there's any
+21:30
+raise of Hope around climate change it's
+21:32
+that Humanity's capacity to innovate and
+21:37
+find new ideas is almost endless so the
+21:41
+question is not are we sort of pursuing
+21:44
+the wrong research ideas and question is
+21:48
+can we find good ideas fast enough to
+21:51
+revert the really serious consequences
+21:55
+of climate change that we're already
+21:57
+facing Chris I just remember that
+Optimism
+22:01
+scientist we heard in the tape from your
+22:03
+visit and she was so excited and she
+22:06
+said that she was really
+22:08
+optimistic I wonder how are you
+22:15
+feeling I I think the frustration that
+22:17
+you'll hear among climate reporters when
+22:20
+I'm in this group is
+22:22
+that most people seem not to appreciate
+22:26
+the severity of the situation that we're
+22:29
+in there seems to be a view that we're
+22:31
+dealing with this you know people are
+22:33
+buying electric cars and we're getting
+22:35
+more solar power and wind power and
+22:37
+things are going the right way and this
+22:39
+will be okay things are not going the
+22:41
+right way not only are we on the wrong
+22:45
+trajectory in terms of missions we are
+22:48
+so far away from being on the right
+22:50
+trajectory for Missions that it's hard
+22:52
+to imagine us cutting emissions globally
+22:55
+at a rate anywhere near fast enough to
+22:57
+avoid
+22:59
+almost unbearable consequences of global
+23:01
+warming so that's the
+23:04
+downside here here's the good news
+23:06
+though I do think and this again I think
+23:08
+is a view among other climate reporters
+23:10
+the
+23:11
+capacity of scientists and of companies
+23:16
+to change track and to find new products
+23:19
+and apply new ideas is really impressive
+23:23
+right it just doesn't feel like there's
+23:26
+a connection yet between the the urgency
+23:29
+of the situation and the way people and
+23:32
+companies and governments are
+23:34
+[Music]
+23:36
+responding and so I guess if the
+23:38
+question is how I feel about this I I am
+23:41
+constantly amazed at the Ingenuity of
+23:43
+the researchers I come across in my job
+23:45
+every day what I don't yet know about is
+23:50
+whether or not Society will move fast
+23:54
+enough to adopt and apply those ideas
+23:58
+before the conditions that we Face from
+24:01
+climate change become almost
+24:04
+[Music]
+24:19
+unbearable well quis on this cautiously
+24:22
+optimistic note thank you very much
+24:25
+thank
+24:27
+you
+24:28
+[Music]
+24:32
+we'll be right
+24:36
+back here's what else you need to know
+24:39
+today in a tense phone call with
+24:41
+Israel's leader Benjamin Netanyahu on
+24:43
+Thursday President Biden called the air
+24:45
+strikes that killed seven Aid workers
+24:47
+this week unacceptable and threatened to
+24:50
+condition future support for Israel on
+24:53
+how it addresses concerns about civilian
+24:55
+casualties and the humanitarian crisis
+24:57
+in Gaza
+24:59
+it was the first time that Biden
+25:00
+explicitly sought to leverage American
+25:03
+Aid to influence Israel's conduct of the
+25:05
+war against Hamas but the White House
+25:08
+stopped short of saying directly that
+25:10
+the president would halt arm supplies or
+25:12
+impose conditions on their use as some
+25:15
+fellow Democrats have urged him to do
+25:17
+and a Centrist group called No Labels
+25:21
+has abandoned its plans to run a
+25:22
+presidential ticket in this year's
+25:24
+election after failing to recruit a
+25:27
+candidate the group which last year said
+25:30
+it raised $60 million had planned to put
+25:33
+forward what it called a bipartisan
+25:35
+Unity ticket in the event of a rematch
+25:38
+between President Biden and former
+25:40
+president Trump but in recent months
+25:42
+suffered a string of rejections from
+25:44
+prominent Republicans and Democrats who
+25:47
+declined to run on its
+25:53
+ticket today's episode was produced by
+25:56
+Michael Simon Johnson Eric krup
+25:58
+Luke Vander pluk and relle Banja it was
+26:02
+edited by Patricia willins contains
+26:05
+original music by Rowan Nimo Alicia by
+26:08
+and Marian Lozano and was engineered by
+26:11
+Chris Wood our theme music is by Jim
+26:14
+brunberg and Ben lansberg of
+26:19
+Wy the daily is made by Rachel quer
+26:23
+Lindsay Garrison Claire tennis Kutter
+26:25
+Paige cowt Michael Simon Johnson
+26:28
+Brad fiser Chris Wood Jessica Chang
+26:32
+Stella tan Alexandra Lee young Lisa Chow
+26:36
+Eric krupy Mark George Luke Vander plug
+26:41
+MJ Davis Lynn Dan Powell Sydney Harper
+26:45
+Michael benoa Lis oalen ASA chatov relle
+26:50
+bonja Diana win Marian Lozano Cory Shel
+26:56
+Rob zipo Elisha
+26:59
+muj zadii Patricia willins Rowan Nimo
+27:03
+Jody Becker Ricky novetsky Nina feltman
+27:07
+will Reed Carlos prero Ben Calhoun Susan
+27:12
+Lee Lexi diao Mary Wilson Alex Stern Dan
+27:17
+Ferrell Sophia lman Shannon Lynn Diane
+27:22
+Wong Devin Taylor Alysa Moxley summer
+27:26
+tomad oliv Nat Daniel Ramirez and
+27:30
+Brendan clink BG special thanks to Lisa
+27:33
+Tobin Sam dolnick Paula Schuman Lissa
+27:37
+Anderson Julia Simon Sofia Milan mahima
+27:41
+chapani Elizabeth Davis MOA Jeffrey
+27:45
+Miranda renan barelli Maddie masello
+27:49
+Isabella Anderson and Nina
+27:52
+[Music]
+27:57
+lassam
+27:59
+that's it for the daily I'm Katherine
+28:01
+benold see you
+28:03
+[Music]
+28:16
+Monday
