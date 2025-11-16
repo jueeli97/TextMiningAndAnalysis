@@ -149,20 +149,20 @@ All results were compared for **NBC vs NYT**.
 
 ## 🏛️ System Architecture
 
-Data Collection
-↓
-Preprocessing
-↓
-Index Construction (Inverted + Positional)
-↓
-Feature Extraction (TF, TF-IDF)
-↓
-Word Co-Occurrence Analysis
-↓
-Sentiment Analysis (BERT + spaCy)
-↓
-Visualization
-↓
+Data Collection<br>
+↓<br>
+Preprocessing<br>
+↓<br>
+Index Construction (Inverted + Positional)<br>
+↓<br>
+Feature Extraction (TF, TF-IDF)<br>
+↓<br>
+Word Co-Occurrence Analysis<br>
+↓<br>
+Sentiment Analysis (BERT + spaCy)<br>
+↓<br>
+Visualization<br>
+↓<br>
 Insights & Comparison
 
 
