@@ -198,7 +198,9 @@ Insights & Comparison
 ---
 
 ## 📂 Repository Structure
-News_Podcast_Text_Mining/
+
+```text
+Text_Mining_and_Analysis/
 │
 ├── Data/
 │ ├── nbc_transcripts/
@@ -212,8 +214,8 @@ News_Podcast_Text_Mining/
 │ 
 │
 ├── Output Images/
-│ ├── NBC output Images
-│ ├── NYT output Images
+│ ├── NBC_output_Images
+│ ├── NYT_output_Images
 │
 └── README.md
 
