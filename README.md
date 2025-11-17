@@ -198,13 +198,29 @@ Insights & Comparison
 ---
 
 ## 📂 Repository Structure
-
-
-
+News_Podcast_Text_Mining/
+│
+├── Data/
+│ ├── nbc_transcripts/
+│ └── nyt_transcripts/
+│
+├── NBC_news_analysis.py
+│ 
+│
+├── NYT_analysis.py
+│ 
+│ 
+│
+├── Output Images/
+│ ├── NBC output Images
+│ ├── NYT output Images
+│
+└── README.md
 
 ---
 
 ## 🖥️ How to Run
+
 
 1. **Clone the repository**
    ```bash
