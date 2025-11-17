@@ -218,7 +218,7 @@ Text_Mining_and_Analysis/
 │ ├── NYT_output_Images
 │
 └── README.md
-
+```
 ---
 
 ## 🖥️ How to Run
